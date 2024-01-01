@@ -32,7 +32,7 @@ const NinfaHandmade = () => (
     title="Ninfa Handmade"
     client="Ninfa Handmade"
     location="Lisbon, Portugal"
-    projectType="Social Media Shoot"
+    projectType="Photoshoot"
     year="2022"
     content={content}
   />

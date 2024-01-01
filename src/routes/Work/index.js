@@ -80,7 +80,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/undress-code"
             ><i>Undress Code</i></NavLink>, summer 2023</p>
         </div>
 
@@ -137,7 +137,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/folklore"
             ><i>Folklore</i></NavLink>, coming soon</p>
         </div>
 
@@ -254,7 +254,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/still-life-ii"
             ><i>Still life II</i></NavLink>, at home, autumn 2023</p>
       </div>
       <div className="work__img-wrapper">
@@ -265,7 +265,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/still-life-i"
             ><i>Still life I</i></NavLink>, at home, autumn 2022</p>
       </div>
 

@@ -2,7 +2,6 @@ import React from 'react';
 import ProjectComponent from '../ProjectComponent';
 
 import beatriz01 from '../../../assets/2023-beatriz-jardinha-model/beatriz-01.jpg';
-import beatriz02 from '../../../assets/2023-beatriz-jardinha-model/beatriz-02.jpg';
 import beatriz03 from '../../../assets/2023-beatriz-jardinha-model/beatriz-03.jpg';
 import beatriz04 from '../../../assets/2023-beatriz-jardinha-model/beatriz-04.jpg';
 import beatriz05 from '../../../assets/2023-beatriz-jardinha-model/beatriz-05.jpg';
@@ -15,13 +14,12 @@ import beatriz11 from '../../../assets/2023-beatriz-jardinha-model/beatriz-11.jp
 import beatriz12 from '../../../assets/2023-beatriz-jardinha-model/beatriz-12.jpg';
 
 const content = [
-  beatriz02,
+  beatriz07,
   beatriz01,
   beatriz03,
-  beatriz04,
   beatriz05,
+  beatriz04,
   beatriz06,
-  beatriz07,
   beatriz08,
   beatriz09,
   beatriz10,
@@ -34,7 +32,7 @@ const BeatrizJardinhaModel = () => (
     title="Beatriz Jardinha"
     client="Beatriz Jardinha"
     location="Lisbon, Portugal"
-    projectType="Social Media Shoot"
+    projectType="Photoshoot"
     year="2023"
     content={content}
   />
