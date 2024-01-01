@@ -1,0 +1,24 @@
+body {
+    font-family: $font-family;
+    font-size: 14px;
+    color: $black;
+    line-height: 1.5;
+
+    // Make sure an element's specified width and height
+    // aren't affected by padding or borders
+    box-sizing: border-box;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+a {
+    color: initial;
+    font-weight: bold;
+    text-decoration: underline;
+}

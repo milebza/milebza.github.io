@@ -1,0 +1,142 @@
+.u-container {
+    margin: 100px auto 50px;
+    width: 600px;
+    padding: 10px 20px;
+
+    &--wide {
+        width: 800px;
+    }
+
+    &--extra-wide {
+        width: 980px;
+    }
+
+    @media (max-width: $small-screen) {
+        width: auto;
+        margin: 140px 20px 50px;
+        padding: 0;
+    }
+}
+
+.u-container-clean {
+    margin: 0 auto 50px;
+    width: 600px;
+    padding: 10px 20px;
+
+    &--wide {
+        width: 800px;
+    }
+
+    &--extra-wide {
+        width: 980px;
+    }
+
+    @media (max-width: $small-screen) {
+        width: auto;
+        margin: 0 20px 50px;
+        padding: 0;
+    }
+}
+
+.u-box {
+    border: 1px solid $black;
+    border-radius: 2px;
+    padding: 20px;
+}
+
+.u-quote {
+    font-size: 20px;
+    font-weight: 700;
+    width: 250px;
+    line-height: 1.2;
+    margin: 55px auto;
+
+    &__author {
+        display: block;
+        padding-top: 10px;
+    }
+}
+
+.u-title {
+    font-size: initial;
+    font-weight: 400;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+
+.u-underline {
+    text-decoration: underline;
+}
+
+.u-center {
+    text-align: center;
+}
+
+.u-brand-color {
+    color: $brand-color;
+}
+
+.u-show-desktop {
+    display: block;
+
+    @media (max-width: $small-screen) {
+        display: none;
+    }
+}
+
+.u-show-mobile {
+    display: none;
+    
+    @media (max-width: $small-screen) {
+        display: block;
+    }
+}
+
+.u-flex {
+    display: flex;
+}
+
+// Grid
+.u-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.u-col-2 {
+    display: block;
+    width: 100%;
+
+    @media (min-width: $medium-screen) {
+        width: 50%;
+    }
+}
+
+.u-col-7 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    @media (min-width: $medium-screen) {
+        width: 70%;
+    }
+}
+
+.u-col-3 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+
+    @media (min-width: $medium-screen) {
+        width: 33.33333%;
+    }
+}
+
+.u-col-4 {
+    display: block;
+    width: 100%;
+
+    @media (min-width: $medium-screen) {
+        width: 25%;
+    }
+}

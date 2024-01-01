@@ -1,0 +1,16 @@
+.work {
+    margin: 100px auto 40px;
+
+    &__desc {
+        font-size: 12px;
+    }
+
+    &__img-wrapper {
+        margin: 50px;
+        max-width: 250px;
+
+        @media (max-width: $small-screen) {
+            margin: 20px;
+        }
+    }
+}

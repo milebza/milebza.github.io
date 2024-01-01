@@ -1,0 +1,13 @@
+.shop {
+	&__item {
+		text-decoration: none;
+	}
+
+  &__item-info {
+		padding-bottom: 40px;
+
+    @media (max-width: $small-screen) {
+      padding-left: initial;
+    }
+	}
+}
