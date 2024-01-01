@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.77db53db.css",
-    "main.js": "/static/js/main.583b1f4d.js",
+    "main.js": "/static/js/main.df57f25d.js",
     "static/js/787.023f75d1.chunk.js": "/static/js/787.023f75d1.chunk.js",
     "static/media/work-34.jpg": "/static/media/work-34.8b99ccddf71a39e16396.jpg",
     "static/media/work-48.jpg": "/static/media/work-48.63bf6c2316132887feaa.jpg",
@@ -28,6 +28,7 @@
     "static/media/beatriz-01.jpg": "/static/media/beatriz-01.f5821856bfd19bb3bd30.jpg",
     "static/media/ninfa-10.jpg": "/static/media/ninfa-10.d45c480e77c7f0c34c1e.jpg",
     "static/media/beatriz-03.jpg": "/static/media/beatriz-03.1bb59e1f4dee0fc56a9e.jpg",
+    "static/media/ines-ines-04.jpg": "/static/media/ines-ines-04.aaa2146360a79a8692c2.jpg",
     "static/media/ninfa-06.jpg": "/static/media/ninfa-06.cfb11bef50f4d81ee5ed.jpg",
     "static/media/ninfa-11.jpg": "/static/media/ninfa-11.ec19c9f70e43a8329c18.jpg",
     "static/media/work-01.jpg": "/static/media/work-01.6c9c98de1081630ec6db.jpg",
@@ -35,19 +36,20 @@
     "static/media/ninfa-12.jpg": "/static/media/ninfa-12.24f3a5daa941ae8dd751.jpg",
     "static/media/beatriz-10.jpg": "/static/media/beatriz-10.955eb1db3c8a4961679e.jpg",
     "static/media/beatriz-08.jpg": "/static/media/beatriz-08.ce18ce0385b2c5034374.jpg",
+    "static/media/ines-ines-11.jpg": "/static/media/ines-ines-11.c8a078a62abac9ac8ff4.jpg",
     "static/media/ines-ines-10.jpg": "/static/media/ines-ines-10.ccae684c96b0ac72b71e.jpg",
     "static/media/beatriz-12.jpg": "/static/media/beatriz-12.998ec9f322476943a436.jpg",
     "static/media/beatriz-06.jpg": "/static/media/beatriz-06.c4eeb0c0cbd7be35fb19.jpg",
     "static/media/work-12.jpg": "/static/media/work-12.b33bfce49b6fc6b58985.jpg",
-    "static/media/ines-ines-04.jpg": "/static/media/ines-ines-04.32b0db53ac1b7741bdf5.jpg",
+    "static/media/still-01.jpg": "/static/media/still-01.f2097671cb1574afbbd2.jpg",
     "static/media/ninfa-05.jpg": "/static/media/ninfa-05.ae88e0f0d3a0d94145ef.jpg",
+    "static/media/still-02.jpg": "/static/media/still-02.b84b8c9915e8ba7fb5fe.jpg",
     "static/media/ninfa-01.jpg": "/static/media/ninfa-01.60f91d4b4baa7a3c06f3.jpg",
     "static/media/beatriz-09.jpg": "/static/media/beatriz-09.44079bbd55408dc39fde.jpg",
     "static/media/ribbon-01.jpg": "/static/media/ribbon-01.7d4944656eecc4be4460.jpg",
-    "static/media/beatriz-02.jpg": "/static/media/beatriz-02.10e8592c51b70efb01fc.jpg",
     "static/media/beatriz-jardinha-02.jpg": "/static/media/beatriz-jardinha-02.cf090f26059a3d3e68ef.jpg",
     "static/media/beatriz-07.jpg": "/static/media/beatriz-07.1dfb8f55c0992d34d082.jpg",
-    "static/media/ines-ines-11.jpg": "/static/media/ines-ines-11.595a39a51864921d73cd.jpg",
+    "static/media/still-03.jpg": "/static/media/still-03.a00886c7201562861590.jpg",
     "static/media/work-07.jpg": "/static/media/work-07.dbf762c452e139df05d6.jpg",
     "static/media/work-08.jpg": "/static/media/work-08.173c6ac44b4b5571582c.jpg",
     "static/media/work-09.jpg": "/static/media/work-09.c286750a8f228b9949cc.jpg",
@@ -74,11 +76,11 @@
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.77db53db.css.map": "/static/css/main.77db53db.css.map",
-    "main.583b1f4d.js.map": "/static/js/main.583b1f4d.js.map",
+    "main.df57f25d.js.map": "/static/js/main.df57f25d.js.map",
     "787.023f75d1.chunk.js.map": "/static/js/787.023f75d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77db53db.css",
-    "static/js/main.583b1f4d.js"
+    "static/js/main.df57f25d.js"
   ]
 }
