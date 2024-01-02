@@ -35,6 +35,15 @@ const App = () => (
         <Route exact path="/archive/still-life-i" element={<StillLifeI/>} />
         <Route exact path="/archive/folklore" element={<Folklore/>} />
         <Route exact path="/archive/undress-code" element={<UndressCode/>} />
+        <Route exact path="/archive/ribbon" element={<ProjectPlaceholder/>} />
+        <Route exact path="/archive/beatriz-jardinha-ii" element={<ProjectPlaceholder/>} />
+        <Route exact path="/archive/pastel-dreams" element={<ProjectPlaceholder/>} />
+        <Route exact path="/archive/maria-do-carmo-studio" element={<ProjectPlaceholder/>} />
+        <Route exact path="/archive/beatriz-jardinha-iii" element={<ProjectPlaceholder/>} />
+        <Route exact path="/archive/lfw" element={<ProjectPlaceholder/>} />
+        <Route exact path="/archive/palmiza" element={<ProjectPlaceholder/>} />
+        <Route exact path="/archive/non-manon" element={<ProjectPlaceholder/>} />
+        <Route exact path="/archive/omer-gilony" element={<ProjectPlaceholder/>} />
       </Routes>
     </Router>
   </div>

@@ -68,7 +68,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/beatriz-jardinha-ii"
             ><i>Beatriz Jardinha</i></NavLink>, summer 2023</p>
         </div>
 
@@ -92,7 +92,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/lfw"
             ><i>Backstage pictures for LFW,</i></NavLink>, spring 2022</p>
         </div>
 
@@ -173,8 +173,8 @@ const Work = () => (
               loading="lazy"
             />
             <p className="work__desc"><NavLink
-            to="/archive/project"
-            ><i>Pastel Dreams</i></NavLink> for Mulieris Magazine, Issue 4, spring 2022</p>
+            to="/archive/pastel-dreams"
+            ><i>Pastel Dreams for Mulieris Magazine</i></NavLink>, Issue 4, spring 2022</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -195,7 +195,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/palmiza"
             ><i>Palmiza</i></NavLink>, summer 2022</p>
         </div>
 
@@ -217,7 +217,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/non-manon"
             ><i>Disco Witch campaign for Non Manon</i></NavLink>, autumn 2021</p>
         </div>
 
@@ -239,7 +239,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/omer-gilony"
             ><i>Omer Gilony for Dolce Vita event</i></NavLink>, summer 2023</p>
         </div>
     </div>
@@ -277,7 +277,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/ribbon"
             ><i>Ribbon</i></NavLink>, spring 2023</p>
       </div>
 
@@ -289,7 +289,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/maria-do-carmo-studio"
             ><i>Backstage pictures for Maria do Carmo Studio</i></NavLink>, autumn 2023</p>
       </div>
 
@@ -301,7 +301,7 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/project"
+            to="/archive/beatriz-jardinha-iii"
             ><i>Beatriz Jardinha</i></NavLink>, summer 2023</p>
         </div>
 
