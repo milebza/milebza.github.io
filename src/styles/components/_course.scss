@@ -90,6 +90,13 @@
             background-color: $course-btn-color;
             color: white;
         }
+
+        &:disabled {
+            cursor: not-allowed;
+            border-color: rgb(138, 133, 128);
+            color: rgb(138, 133, 128);
+            background-color: lighten(rgb(138, 133, 128), 50%);
+        }
     }
 
     &__join {

@@ -22,9 +22,9 @@ const Shop = () => (
         140 pages (includes cover) full color (digital print), A5 format.<br />
         Printed July 2023.</p>
       <p><b>18€</b></p>
-      <a className="course__button" href="https://www.etsy.com/listing/1533291023/summer-drops">
-        LOOK INSIDE
-      </a>
+      <button className="course__button" disabled>
+        SOLD OUT
+      </button>
     </div>
   </div>
   </>
