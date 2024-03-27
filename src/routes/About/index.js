@@ -72,14 +72,17 @@ const About = () => (
         <p className="about-home__small-text">
           <p>SELECT CLIENTS</p>
           <p className="about-home__cv-items">
+          <span>Triumph</span>
           <span>Beatriz Jardinha</span>
+          <span>Undress Code</span>
+          <span>Sian Swimwear</span>
+          <span>Lisboa Fashion Week</span>
+          <span>Maria do Carmo Studio</span>
           <span>Ninfa Handmade</span>
           <span>MERRMA</span>
-          <span>Maria do Carmo Studio</span>
           <span>Non Manon</span>
           <span>PALMIZA</span>
           <span>Oceanchild</span>
-          <span>Lisboa Fashion Week</span>
           </p>
           <br /><br />
           <p>SELECT PUBLICATIONS</p>
