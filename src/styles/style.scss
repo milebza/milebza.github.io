@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'ak-reg';
+  font-style: normal;
+  font-weight: 400;
+  src: local('AkzidenzGrotesk-Regular'), url(/assets/AkzidenzGrotesk-Regular.woff) format('woff');
+}
+
 @import 'node_modules/normalize.css/normalize';
 @import 'node_modules/slick-carousel/slick/slick';
 @import 'node_modules/slick-carousel/slick/slick-theme';

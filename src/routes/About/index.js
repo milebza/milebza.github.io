@@ -39,7 +39,7 @@ const About = () => (
         <p> ⊹ </p>
         <p className="about-home__short-p">
         Milena was born in 1992 and grew up in two different hemispheres (via Viña del Mar-Lisboa),{' '}
-        eventually settling in Portugal in 2000. In recent years she dove deep{' '}
+        eventually settling in Portugal in 2000 with her family. In recent years she dove deep{' '}
         into the medium of photography bringing plasticity, bold colours and shapes to her work.{' '}
         She portraits her subjects in intimate settings and explores themes like identity,{' '}
         vulnerability and natural beauty. Both her parents are artists, so being creative was something natural{' '}
