@@ -43,7 +43,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><i>B among poppy flowers,</i> Photo Vogue, spring 2021</p>
+          <p className="work__desc">B among poppy flowers, Photo Vogue, spring 2021</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -56,7 +56,7 @@ const Work = () => (
           <p className="work__desc">
             <NavLink
             to="/archive/ines-ines"
-            ><i>Inés & Inês,</i></NavLink> summer 2022
+            >Inés & Inês,</NavLink> summer 2022
           </p>
         </div>
 
@@ -69,7 +69,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/beatriz-jardinha-ii"
-            ><i>Beatriz Jardinha</i></NavLink>, summer 2023</p>
+            >Beatriz Jardinha</NavLink>, summer 2023</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -81,7 +81,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/undress-code"
-            ><i>Undress Code</i></NavLink>, summer 2023</p>
+            >Undress Code</NavLink>, summer 2023</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -93,7 +93,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/lfw"
-            ><i>Backstage pictures for LFW</i></NavLink>, spring 2022</p>
+            >Backstage pictures for LFW</NavLink>, spring 2022</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -103,7 +103,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><i>Sian Swimwear,</i> spring 2022</p>
+          <p className="work__desc">Sian Swimwear, spring 2022</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -113,7 +113,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><i>B after a swim</i>, summer 2022</p>
+          <p className="work__desc">B after a swim, summer 2022</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -123,7 +123,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><i>Sparkles</i>, spring 2021</p>
+          <p className="work__desc">Sparkles, spring 2021</p>
       </div>
       </div>
 
@@ -138,7 +138,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/folklore"
-            ><i>Folklore</i></NavLink>, coming soon</p>
+            >Folklore</NavLink>, Photo Vogue, winter 2023</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -150,7 +150,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/beatriz-jardinha-i"
-            ><i>Beatriz Jardinha</i></NavLink>, summer 2023</p>
+            >Beatriz Jardinha</NavLink>, summer 2023</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -162,7 +162,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/ninfa-handmade"
-            ><i>Ninfa handmade</i></NavLink>, winter 2022</p>
+            >Ninfa handmade</NavLink>, winter 2022</p>
       </div>
 
       <div className="work__img-wrapper">
@@ -174,7 +174,7 @@ const Work = () => (
             />
             <p className="work__desc"><NavLink
             to="/archive/pastel-dreams"
-            ><i>Pastel Dreams for Mulieris Magazine</i></NavLink>, Issue 4, spring 2022</p>
+            >Pastel Dreams for Mulieris Magazine</NavLink>, Issue 4, spring 2022</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -184,7 +184,7 @@ const Work = () => (
               className="img-fluid"
               loading="lazy"
             />
-            <p className="work__desc"><i>Train trip to Lyon from Paris</i>, spring 2023</p>
+            <p className="work__desc">Train trip to Lyon from Paris, spring 2023</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -196,7 +196,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/palmiza"
-            ><i>Palmiza</i></NavLink>, summer 2022</p>
+            >Palmiza</NavLink>, summer 2022</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -206,7 +206,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><i>Swimming pool,</i> Póvoa do Lanhoso, winter 2023</p>
+          <p className="work__desc">Swimming pool, Póvoa do Lanhoso, winter 2023</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -218,7 +218,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/non-manon"
-            ><i>Disco Witch campaign for Non Manon</i></NavLink>, autumn 2021</p>
+            >Disco Witch campaign for Non Manon</NavLink>, autumn 2021</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -228,7 +228,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><i>Sisters floating in water</i>, summer 2020</p>
+          <p className="work__desc">Sisters floating in water, summer 2020</p>
       </div>
 
       <div className="work__img-wrapper">
@@ -240,7 +240,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/omer-gilony"
-            ><i>Omer Gilony for Dolce Vita event</i></NavLink>, summer 2023</p>
+            >Omer Gilony for Dolce Vita event</NavLink>, summer 2023</p>
         </div>
     </div>
 
@@ -255,7 +255,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/still-life-ii"
-            ><i>Still life II</i></NavLink>, at home, autumn 2023</p>
+            >Still life II</NavLink>, at home, autumn 2023</p>
       </div>
       <div className="work__img-wrapper">
           <img
@@ -266,7 +266,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/still-life-i"
-            ><i>Still life I</i></NavLink>, at home, autumn 2022</p>
+            >Still life I</NavLink>, at home, autumn 2022</p>
       </div>
 
       <div className="work__img-wrapper">
@@ -278,7 +278,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/ribbon"
-            ><i>Ribbon</i></NavLink>, spring 2023</p>
+            >Ribbon</NavLink>, spring 2023</p>
       </div>
 
       <div className="work__img-wrapper">
@@ -290,7 +290,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/maria-do-carmo-studio"
-            ><i>Backstage pictures for Maria do Carmo Studio</i></NavLink>, autumn 2023</p>
+            >Backstage pictures for Maria do Carmo Studio</NavLink>, autumn 2023</p>
       </div>
 
       <div className="work__img-wrapper">
@@ -302,7 +302,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/beatriz-jardinha-iii"
-            ><i>Beatriz Jardinha</i></NavLink>, summer 2023</p>
+            >Beatriz Jardinha</NavLink>, summer 2023</p>
         </div>
 
       <div className="work__img-wrapper">
@@ -312,7 +312,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><i>Balm for the soul</i> for Curated by GIRLS, summer 2022</p>
+          <p className="work__desc">Balm for the soul for Curated by GIRLS, summer 2022</p>
       </div>
 
       <div className="work__img-wrapper">
@@ -322,7 +322,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><i>Cactus in Lanzarote</i>, summer 2022</p>
+          <p className="work__desc">Cactus in Lanzarote, summer 2022</p>
       </div>
 
       <div className="work__img-wrapper">
@@ -332,7 +332,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><i>Tangled legs of A & F</i>, summer 2020</p>
+          <p className="work__desc">Tangled legs of A & F, summer 2020</p>
       </div>
     </div>
     </div>
