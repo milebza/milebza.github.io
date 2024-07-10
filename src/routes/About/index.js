@@ -16,16 +16,18 @@ const About = () => (
           <img
             src={about2}
             alt="portfolio"
-            className="img-fluid about-home__img"
+            className="img-fluid"
             loading="lazy"
+            style={{ paddingRight: '5px' }}
           />
         </div>
         <div className="about-home__col-2">
           <img
             src={about1}
             alt="portfolio"
-            className="img-fluid about-home__img"
+            className="img-fluid"
             loading="lazy"
+            style={{ paddingLeft: '5px' }}
           />
         </div>
       </div>
@@ -34,12 +36,8 @@ const About = () => (
         <p>
           Photographer based in Lisbon, Portugal and available worldwide.
         </p>
-        <p>
-        Contact:{' '}
-        <a href="mailto:hello@milenabaeza.com">hello@milenabaeza.com</a>
-        </p>
         <p> ⊹ </p>
-        <p className="about-home__short-p"><i>
+        <p className="about-home__short-p">
         Milena was born in 1992 and grew up in two different hemispheres (via Viña del Mar-Lisboa),{' '}
         eventually settling in Portugal in 2000. In recent years she dove deep{' '}
         into the medium of photography bringing plasticity, bold colours and shapes to her work.{' '}
@@ -49,7 +47,7 @@ const About = () => (
         active for five years. It was a monthly zine with a collection of their thoughts, drawings, short stories,{' '}
         photographs and mixed media around a specific theme. For her, creativity has always been a tool for self-exploration{' '}
         and getting to know oneself. As a photographer she works in the fashion field as well as develops personal stories.
-        </i></p>
+        </p>
         <p>
         <a
             href="https://www.instagram.com/milena.baeza/"
@@ -76,27 +74,24 @@ const About = () => (
           <span>Beatriz Jardinha</span>
           <span>Undress Code</span>
           <span>Sian Swimwear</span>
-          <span>Lisboa Fashion Week</span>
-          <span>Maria do Carmo Studio</span>
           <span>Ninfa Handmade</span>
           <span>MERRMA</span>
-          <span>Non Manon</span>
           <span>PALMIZA</span>
-          <span>Oceanchild</span>
+          <span>Maria do Carmo Studio</span>
+          <span>Lisboa Fashion Week</span>
           </p>
           <br /><br />
           <p>SELECT PUBLICATIONS</p>
           <p className="about-home__cv-items">
           <span>Summer Drops <i>(book)</i></span>
-          <span>Mulieris Magazine, Issue 04, Belt of Venus <i>(print)</i></span>
+          <span>Mulieris Magazine, print issue 04, Belt of Venus</span>
           <span>Curated by GIRLS</span>
           <span>Photo Vogue</span>
           <span>C41 Magazine</span>
-          <span>EMC Magazine</span>
           {/* Entrevista <a href="https://contraluzweb.wordpress.com/2022/05/08/milena-baeza/" target="_blank" rel="noreferrer">
           CONTRALUZ
           </a><br /> */}
-          <span>Mr. Spoqui, all Issues <i>(print)</i></span>
+          <span>Mr. Spoqui, all print issues</span>
           </p>
           <br /><br />
           <p>EXHIBITIONS</p>

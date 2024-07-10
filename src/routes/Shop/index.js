@@ -7,8 +7,7 @@ const Shop = () => (
   <Menu />
   <div className="about-home">
     <div className="shop__item-info">
-      <h3>Summer Drops</h3>
-      <div style={{ maxWidth: 550 }}>
+      <div>
         <img
           src={book01}
           alt="book open"
@@ -16,12 +15,12 @@ const Shop = () => (
           loading="lazy"
         />
       </div>
+      <h3>summer drops</h3>
       <p><i>Mixed media</i></p>
       <p>A book by sisters Amanda Baeza and Milena Baeza.</p>
-      <p>Book in english. Hardcover with golden foil details.<br />
+      <p>Book in english.<br />Hardcover with golden foil details.<br />
         140 pages (includes cover) full color (digital print), A5 format.<br />
-        Printed July 2023.</p>
-      <p><b>18€</b></p>
+        Printed July 2023.</p><br />
       <button className="course__button" disabled>
         SOLD OUT
       </button>

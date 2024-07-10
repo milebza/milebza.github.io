@@ -1,6 +1,5 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import cn from 'classnames';
 
 const setLinkClass = isActive =>
   isActive
@@ -12,22 +11,24 @@ const setLinkHeaderClass = isActive =>
   ? 'menu__link-header'
   : 'menu__link-header';
 
-const Menu = ({
-  isDarkMode = false
-}) => (
-  <div className={cn('menu', {
-        'menu--dark': isDarkMode
-    })}
-  >
-    <header className="menu__header">
+const Menu = () => (
+  <div className="menu">
+    <div className="menu__wrapper">
+      <div className="menu__header-wrapper">
+      <header className="menu__header">
       <NavLink
         to="/"
         className={({ isActive }) => setLinkHeaderClass(isActive)}
       >
-        Milena{' '}
-        Baeza
+        milena<br />
+        baeza
       </NavLink>
     </header>
+    <div>
+      for inquiries<br />
+      <a href="mailto:hello@milenabaeza.com">hello@milenabaeza.com</a>
+    </div>
+      </div>
     <nav className="menu__nav">
         <div>
         <NavLink
@@ -50,6 +51,7 @@ const Menu = ({
         >Book</NavLink>
         </div>
     </nav>
+    </div>
   </div>
 );
 
