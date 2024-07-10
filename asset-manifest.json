@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e7a697f.css",
-    "main.js": "/static/js/main.49b03c59.js",
+    "main.css": "/static/css/main.684c4185.css",
+    "main.js": "/static/js/main.ad4f5ebf.js",
     "static/js/787.023f75d1.chunk.js": "/static/js/787.023f75d1.chunk.js",
     "static/media/work-34.jpg": "/static/media/work-34.8b99ccddf71a39e16396.jpg",
     "static/media/work-48.jpg": "/static/media/work-48.63bf6c2316132887feaa.jpg",
     "static/media/undress-code-01.gif": "/static/media/undress-code-01.29f5a4b135bc34b4cb6a.gif",
+    "static/media/about-pic-03.jpg": "/static/media/about-pic-03.17f7b04637c660a6f53f.jpg",
     "static/media/beatriz-jardinha-03.gif": "/static/media/beatriz-jardinha-03.5c6a56057daf85e8c445.gif",
     "static/media/omer-01.gif": "/static/media/omer-01.f4d2bbdc105c0aa77bbf.gif",
     "static/media/still-05.jpg": "/static/media/still-05.a24d428c4e1cdcdb1107.jpg",
@@ -16,6 +17,7 @@
     "static/media/ines-ines-13.jpg": "/static/media/ines-ines-13.d34b8a1302295d4c6c02.jpg",
     "static/media/ines-ines-12.jpg": "/static/media/ines-ines-12.ef9c3a1b94f3d9884024.jpg",
     "static/media/ines-ines-05.jpg": "/static/media/ines-ines-05.b74cbb3c2a865273d416.jpg",
+    "static/media/about-pic-02.jpg": "/static/media/about-pic-02.eac2765ac6223434d064.jpg",
     "static/media/ines-ines-02.jpg": "/static/media/ines-ines-02.00cf912557d47171aada.jpg",
     "static/media/beatriz-04.jpg": "/static/media/beatriz-04.01a4e2da93a4b4b362ac.jpg",
     "static/media/ines-ines-01.jpg": "/static/media/ines-ines-01.a6f6f0781b49be7436a8.jpg",
@@ -48,6 +50,7 @@
     "static/media/still-02.jpg": "/static/media/still-02.14914c004f8853829f9e.jpg",
     "static/media/ninfa-01.jpg": "/static/media/ninfa-01.60f91d4b4baa7a3c06f3.jpg",
     "static/media/beatriz-09.jpg": "/static/media/beatriz-09.44079bbd55408dc39fde.jpg",
+    "static/media/about-pic-01.jpg": "/static/media/about-pic-01.84fe8c3540a2c5be86fa.jpg",
     "static/media/ribbon-01.jpg": "/static/media/ribbon-01.7d4944656eecc4be4460.jpg",
     "static/media/beatriz-jardinha-02.jpg": "/static/media/beatriz-jardinha-02.cf090f26059a3d3e68ef.jpg",
     "static/media/beatriz-07.jpg": "/static/media/beatriz-07.1dfb8f55c0992d34d082.jpg",
@@ -55,7 +58,6 @@
     "static/media/work-07.jpg": "/static/media/work-07.dbf762c452e139df05d6.jpg",
     "static/media/work-08.jpg": "/static/media/work-08.173c6ac44b4b5571582c.jpg",
     "static/media/work-09.jpg": "/static/media/work-09.c286750a8f228b9949cc.jpg",
-    "static/media/about-pic-01.jpg": "/static/media/about-pic-01.aac0be99f2218c288ea4.jpg",
     "static/media/folclore-01.jpg": "/static/media/folclore-01.74abb1f8a539901af4ea.jpg",
     "static/media/ninfa-02.jpg": "/static/media/ninfa-02.78e3a84ddb49388025d9.jpg",
     "static/media/work-11.jpg": "/static/media/work-11.70d6ea60fbe4a057b314.jpg",
@@ -63,7 +65,6 @@
     "static/media/lfw-01.png": "/static/media/lfw-01.9e1e82c35ffc4b7034c0.png",
     "static/media/sian-swim-01.jpg": "/static/media/sian-swim-01.64ad03583467f09debb5.jpg",
     "static/media/work-02.jpg": "/static/media/work-02.28e1e077d52e0ddba6f9.jpg",
-    "static/media/about-pic-02.jpg": "/static/media/about-pic-02.6917e883600bef4950bd.jpg",
     "static/media/lfw-02.jpg": "/static/media/lfw-02.e176b0084303c6f79bbc.jpg",
     "static/media/test-shoot-01.jpg": "/static/media/test-shoot-01.2a1510575282d3027385.jpg",
     "static/media/beatriz-jardinha-01.jpg": "/static/media/beatriz-jardinha-01.48164e7c0cbcf6e6ab5b.jpg",
@@ -78,12 +79,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.5e7a697f.css.map": "/static/css/main.5e7a697f.css.map",
-    "main.49b03c59.js.map": "/static/js/main.49b03c59.js.map",
+    "main.684c4185.css.map": "/static/css/main.684c4185.css.map",
+    "main.ad4f5ebf.js.map": "/static/js/main.ad4f5ebf.js.map",
     "787.023f75d1.chunk.js.map": "/static/js/787.023f75d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e7a697f.css",
-    "static/js/main.49b03c59.js"
+    "static/css/main.684c4185.css",
+    "static/js/main.ad4f5ebf.js"
   ]
 }
