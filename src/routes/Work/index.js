@@ -93,7 +93,7 @@ const Work = () => (
           />
           <p className="work__desc"><NavLink
             to="/archive/lfw"
-            ><i>Backstage pictures for LFW,</i></NavLink>, spring 2022</p>
+            ><i>Backstage pictures for LFW</i></NavLink>, spring 2022</p>
         </div>
 
         <div className="work__img-wrapper">

@@ -84,7 +84,7 @@ const About = () => (
           <p>SELECT PUBLICATIONS</p>
           <p className="about-home__cv-items">
           <span>Summer Drops <i>(book)</i></span>
-          <span>Mulieris Magazine, print issue 04, Belt of Venus</span>
+          <span>Mulieris Magazine, print issue 04</span>
           <span>Curated by GIRLS</span>
           <span>Photo Vogue</span>
           <span>C41 Magazine</span>

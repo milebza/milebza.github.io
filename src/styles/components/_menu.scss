@@ -24,7 +24,7 @@
         gap: 80px;
 
         @media (max-width: $small-screen) {
-            gap: 20%;
+            gap: 15%;
         }
     }
 
@@ -32,6 +32,7 @@
         text-decoration: none;
         cursor: pointer;
         color: initial;
+        font-weight: initial;
     }
 
     &__link {
@@ -39,7 +40,7 @@
         text-transform: lowercase;
         font-weight: initial;
         color: initial;
-        font-style: italic;
+        //font-style: italic;
         cursor: pointer;
 
         &--active {
