@@ -15,16 +15,21 @@ const Shop = () => (
           loading="lazy"
         />
       </div>
-      <h3>summer drops</h3>
-      <p><i>Mixed media</i></p>
+      <p><i>summer drops</i></p>
+      <p>⊹</p>
       <p>A book by sisters Amanda Baeza and Milena Baeza.</p>
-      <p>Book in english.<br />Hardcover with golden foil details.<br />
-        140 pages (includes cover) full color (digital print), A5 format.<br />
-        Printed July 2023.</p><br />
+      <p>Mixed media.<br />Book in english.<br />Hardcover with golden foil details.<br />
+        140 pages (includes cover) full color (digital print), A5 format.</p>
+      <p>Printed July 2023.</p>
+      <br />
       <button className="course__button" disabled>
-        SOLD OUT
+        sold out
       </button>
+      <br />
+      
     </div>
+    <br />
+      <p><small>© all rights reserved</small></p>
   </div>
   </>
 );

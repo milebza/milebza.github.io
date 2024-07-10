@@ -1,10 +1,10 @@
 .project {
-	margin: 100px 40px 40px;
+	margin: 125px 40px 40px;
 	max-width: 1000px;
 
 	@media (max-width: $small-screen) {
 		width: auto;
-		margin: 100px 20px 20px;
+		margin: 125px 20px 20px;
 	}
 
   &__info {

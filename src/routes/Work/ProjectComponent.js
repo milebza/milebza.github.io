@@ -7,13 +7,13 @@ const ProjectComponent = ({ title, client, location, projectType, year, content 
   <Menu />
   <div className="project">
     <div className="project__info">
-      <h3>{title}</h3>
+      <p>{title}</p>
       <div className="project__description">
         <ul className="project__list">
-          {client && <li>CLIENT</li>}
-          <li>LOCATION</li>
-          <li>PROJECT</li>
-          <li>YEAR</li>
+          {client && <li>client</li>}
+          <li>location</li>
+          <li>project</li>
+          <li>year</li>
         </ul>
         <ul className="project__list">
           {client && <li>{client}</li>}

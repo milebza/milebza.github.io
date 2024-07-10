@@ -68,7 +68,7 @@ const About = () => (
       </div>
       <div className="about-home__section">
         <p className="about-home__small-text">
-          <p>SELECT CLIENTS</p>
+          <p>Select clients</p>
           <p className="about-home__cv-items">
           <span>Triumph</span>
           <span>Beatriz Jardinha</span>
@@ -81,7 +81,7 @@ const About = () => (
           <span>Lisboa Fashion Week</span>
           </p>
           <br /><br />
-          <p>SELECT PUBLICATIONS</p>
+          <p>Select publications</p>
           <p className="about-home__cv-items">
           <span>Summer Drops <i>(book)</i></span>
           <span>Mulieris Magazine, print issue 04</span>
@@ -94,7 +94,7 @@ const About = () => (
           <span>Mr. Spoqui, all print issues</span>
           </p>
           <br /><br />
-          <p>EXHIBITIONS</p>
+          <p>Exhibitions</p>
           <p className="about-home__cv-items">
             <span>ImageNation, Paris, 2023</span>
             <span>DOBRA, Lisboa, 2021</span>

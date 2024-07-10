@@ -336,6 +336,10 @@ const Work = () => (
       </div>
     </div>
     </div>
+      <div className="work__img-wrapper">
+        <br />
+        <p><small>© all rights reserved</small></p>
+      </div>
     </div>
   </>
 );
