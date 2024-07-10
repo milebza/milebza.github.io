@@ -3,6 +3,7 @@ import React from 'react';
 import work34 from '../../assets/work-34.jpg';
 import about1 from '../../assets/about-pic-01.jpg';
 import about2 from '../../assets/about-pic-02.jpg';
+import about3 from '../../assets/about-pic-03.jpg';
 
 import Menu from '../../components/Menu';
 
@@ -11,6 +12,7 @@ const About = () => (
     <Menu />
     <div className="about-home">
 
+      <div className="about-home__show-desktop">
       <div className="u-grid">
         <div className="about-home__col-2">
           <img
@@ -30,6 +32,20 @@ const About = () => (
             style={{ paddingLeft: '5px' }}
           />
         </div>
+      </div>
+      </div>
+
+      <div className="about-home__show-mobile">
+      <div className="u-grid">
+        <div>
+          <img
+            src={about3}
+            alt="portfolio"
+            className="img-fluid"
+            loading="lazy"
+          />
+        </div>
+      </div>
       </div>
 
       <div className="about-home__section">
@@ -83,7 +99,7 @@ const About = () => (
           <br /><br />
           <p>Select publications</p>
           <p className="about-home__cv-items">
-          <span>Summer Drops <i>(book)</i></span>
+          <span>Summer Drops, book</span>
           <span>Mulieris Magazine, print issue 04</span>
           <span>Curated by GIRLS</span>
           <span>Photo Vogue</span>
