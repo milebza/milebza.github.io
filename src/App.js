@@ -10,7 +10,6 @@ import ProjectPlaceholder from './routes/Work/ProjectPlaceholder';
 import NinfaHandmade from './routes/Work/projects/NinfaHandmade';
 import BeatrizJardinhaModel from './routes/Work/projects/BeatrizJardinhaModel';
 import InesInes from './routes/Work/projects/InesInes';
-import StillLifeII from './routes/Work/projects/StillLifeII';
 import StillLifeI from './routes/Work/projects/StillLifeI';
 import Folklore from './routes/Work/projects/Folklore';
 import UndressCode from './routes/Work/projects/UndressCode';
@@ -31,7 +30,6 @@ const App = () => (
         <Route exact path="/archive/ninfa-handmade" element={<NinfaHandmade/>} />
         <Route exact path="/archive/beatriz-jardinha-i" element={<BeatrizJardinhaModel/>} />
         <Route exact path="/archive/ines-ines" element={<InesInes/>} />
-        <Route exact path="/archive/still-life-ii" element={<StillLifeII/>} />
         <Route exact path="/archive/still-life-i" element={<StillLifeI/>} />
         <Route exact path="/archive/folklore" element={<Folklore/>} />
         <Route exact path="/archive/undress-code" element={<UndressCode/>} />
@@ -40,6 +38,7 @@ const App = () => (
         <Route exact path="/archive/pastel-dreams" element={<ProjectPlaceholder/>} />
         <Route exact path="/archive/maria-do-carmo-studio" element={<ProjectPlaceholder/>} />
         <Route exact path="/archive/beatriz-jardinha-iii" element={<ProjectPlaceholder/>} />
+        <Route exact path="/archive/beatriz-jardinha-iv" element={<ProjectPlaceholder/>} />
         <Route exact path="/archive/lfw" element={<ProjectPlaceholder/>} />
         <Route exact path="/archive/palmiza" element={<ProjectPlaceholder/>} />
         <Route exact path="/archive/non-manon" element={<ProjectPlaceholder/>} />

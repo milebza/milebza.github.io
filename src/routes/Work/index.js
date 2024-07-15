@@ -18,7 +18,6 @@ import sianSwim01 from '../../assets/sian-swim-01.jpg';
 import testShoot01 from '../../assets/test-shoot-01.jpg';
 import palmiza01 from '../../assets/palmiza-01.jpg';
 import stillLife01 from '../../assets/still-life-01.jpg';
-import stillLife02 from '../../assets/still-life-02.jpg';
 import lfw01 from '../../assets/lfw-01.png';
 import lfw02 from '../../assets/lfw-02.jpg';
 import ribbon01 from '../../assets/ribbon-01.jpg';
@@ -28,6 +27,7 @@ import beatrizJardinha03 from '../../assets/beatriz-jardinha-03.gif';
 import folclore01 from '../../assets/folclore-01.jpg';
 import undressCode01 from '../../assets/undress-code-01.gif';
 import omer01 from '../../assets/omer-01.gif';
+import beatrizJardinha04 from '../../assets/beatriz-jardinha-04.jpg';
 
 const Work = () => (
   <>
@@ -248,14 +248,14 @@ const Work = () => (
     <div className="u-col-3">
     <div className="work__img-wrapper">
           <img
-            src={stillLife02}
+            src={beatrizJardinha04}
             alt="stil life"
             className="img-fluid"
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/still-life-ii"
-            >Still life II</NavLink>, at home, autumn 2023</p>
+            to="/archive/beatriz-jardinha-iv"
+            >Beatriz Jardinha II</NavLink>, winter 2024</p>
       </div>
       <div className="work__img-wrapper">
           <img

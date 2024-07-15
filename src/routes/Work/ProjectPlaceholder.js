@@ -6,7 +6,7 @@ const ProjectPlaceholder = () => (
   <>
   <Menu />
   <div className="u-container u-center">
-    <p>[coming soon]</p>
+    <p>[ coming soon ]</p>
   </div>
   </>
 );
