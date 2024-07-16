@@ -3,7 +3,7 @@ import React from 'react';
 import work34 from '../../assets/work-34.jpg';
 import about1 from '../../assets/about-pic-01.jpg';
 import about2 from '../../assets/about-pic-02.jpg';
-import about4 from '../../assets/about-pic-04.jpg';
+import about5 from '../../assets/about-pic-05.JPG';
 
 import Menu from '../../components/Menu';
 
@@ -39,7 +39,7 @@ const About = () => (
       <div className="u-grid">
         <div>
           <img
-            src={about4}
+            src={about5}
             alt="portfolio"
             className="img-fluid"
             loading="lazy"
@@ -88,6 +88,7 @@ const About = () => (
           <p className="about-home__cv-items">
           <span>Triumph</span>
           <span>Beatriz Jardinha</span>
+          <span>BÉHEN</span>
           <span>Undress Code</span>
           <span>Sian Swimwear</span>
           <span>Ninfa Handmade</span>
@@ -100,7 +101,7 @@ const About = () => (
           <p>Select publications</p>
           <p className="about-home__cv-items">
           <span>Summer Drops, book <i>(sold out)</i></span>
-          <span>Vogue Portugal</span>
+          {/* <span>Vogue Portugal</span> */}
           <span>Mulieris Magazine, print issue 04</span>
           <span>Curated by GIRLS</span>
           <span>Photo Vogue</span>

@@ -17,7 +17,6 @@ import pastelDreams01 from '../../assets/pastel-dreams-01.jpg';
 import sianSwim01 from '../../assets/sian-swim-01.jpg';
 import testShoot01 from '../../assets/test-shoot-01.jpg';
 import palmiza01 from '../../assets/palmiza-01.jpg';
-import stillLife01 from '../../assets/still-life-01.jpg';
 import lfw01 from '../../assets/lfw-01.png';
 import lfw02 from '../../assets/lfw-02.jpg';
 import ribbon01 from '../../assets/ribbon-01.jpg';
@@ -28,6 +27,7 @@ import folclore01 from '../../assets/folclore-01.jpg';
 import undressCode01 from '../../assets/undress-code-01.gif';
 import omer01 from '../../assets/omer-01.gif';
 import beatrizJardinha04 from '../../assets/beatriz-jardinha-04.jpg';
+import behen01 from '../../assets/behen-01.jpg';
 
 const Work = () => (
   <>
@@ -257,17 +257,18 @@ const Work = () => (
             to="/archive/beatriz-jardinha-iv"
             >Beatriz Jardinha II</NavLink>, winter 2024</p>
       </div>
+
       <div className="work__img-wrapper">
           <img
-            src={stillLife01}
-            alt="stil life"
+            src={behen01}
+            alt="backstage at lfw"
             className="img-fluid"
             loading="lazy"
           />
           <p className="work__desc"><NavLink
-            to="/archive/still-life-i"
-            >Still life I</NavLink>, at home, autumn 2022</p>
-      </div>
+            to="/archive/lfw"
+            >Béhen backstage at LFW</NavLink>, spring 2024</p>
+        </div>
 
       <div className="work__img-wrapper">
           <img
