@@ -101,7 +101,7 @@ const About = () => (
           <p>Select publications</p>
           <p className="about-home__cv-items">
           <span>Summer Drops, book <i>(sold out)</i></span>
-          {/* <span>Vogue Portugal</span> */}
+          <span>Vogue Portugal</span>
           <span>Mulieris Magazine, print issue 04</span>
           <span>Curated by GIRLS</span>
           <span>Photo Vogue</span>
