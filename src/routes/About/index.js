@@ -52,24 +52,21 @@ const About = () => (
         <p>
           Photographer based in Lisbon, Portugal and available worldwide.
         </p>
-        <p> ⊹ </p>
-        <p className="about-home__short-p">
-        Milena was born in 1992 and grew up in two different hemispheres (via Viña del Mar-Lisboa),{' '}
-        eventually settling in Portugal in 2000 with her family. In recent years she dove deep{' '}
-        into the medium of photography bringing plasticity, bold colours and shapes to her work.{' '}
-        She portraits her subjects in intimate settings and explores themes like identity,{' '}
-        vulnerability and natural beauty. Both her parents are artists, so being creative was something natural{' '}
-        between her and her three siblings. The four of them founded the zine Mr. Spoqui,{' '}
-        active for five years. It was a monthly zine with a collection of their thoughts, drawings, short stories,{' '}
-        photographs and mixed media around a specific theme. For her, creativity has always been a tool for self-exploration{' '}
-        and getting to know oneself. As a photographer she works in the fashion field as well as develops personal stories.
-        </p>
         <p>
         <a
             href="https://www.instagram.com/milena.baeza/"
             target="_blank"
             rel="noreferrer"
           >@milena.baeza</a>
+        </p>
+        <p> ⊹ </p>
+        <p className="about-home__short-p">
+        Milena was born in 1992 and grew up in two different hemispheres (via Viña del Mar-Lisboa),{' '}
+        eventually settling in Portugal in 2000 with her family. In recent years she dove deep{' '}
+        into the medium of photography bringing plasticity, bold colours and shapes to her work.{' '}
+        She portraits her subjects in intimate settings and explores themes like identity,{' '}
+        vulnerability and natural beauty. For her, creativity has always been a tool for self-exploration{' '}
+        and getting to know oneself. As a photographer she works in the fashion field as well as develops personal stories.
         </p>
       </div>
       <div className="u-flex">
@@ -86,30 +83,23 @@ const About = () => (
         <p className="about-home__small-text">
           <p>Select clients</p>
           <p className="about-home__cv-items">
+          <span>Vogue Portugal</span>
           <span>Triumph</span>
           <span>Beatriz Jardinha</span>
-          <span>BÉHEN</span>
           <span>Undress Code</span>
+          <span>BÉHEN</span>
           <span>Sian Swimwear</span>
           <span>Ninfa Handmade</span>
-          <span>MERRMA</span>
           <span>PALMIZA</span>
           <span>Maria do Carmo Studio</span>
           <span>Lisboa Fashion Week</span>
-          </p>
-          <br /><br />
-          <p>Select publications</p>
-          <p className="about-home__cv-items">
-          <span>Summer Drops, book <i>(sold out)</i></span>
-          <span>Vogue Portugal</span>
-          <span>Mulieris Magazine, print issue 04</span>
+          <span>Mulieris Magazine</span>
           <span>Curated by GIRLS</span>
-          <span>Photo Vogue</span>
-          <span>C41 Magazine</span>
+          {/* <span>C41 Magazine</span> */}
+          {/* <span>Summer Drops, book <i>(sold out)</i></span> */}
           {/* Entrevista <a href="https://contraluzweb.wordpress.com/2022/05/08/milena-baeza/" target="_blank" rel="noreferrer">
           CONTRALUZ
           </a><br /> */}
-          <span>Mr. Spoqui, all print issues</span>
           </p>
           <br /><br />
           <p>Exhibitions</p>
