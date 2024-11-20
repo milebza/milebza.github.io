@@ -95,6 +95,7 @@ const About = () => (
           <span>Lisboa Fashion Week</span>
           <span>Mulieris Magazine</span>
           <span>Curated by GIRLS</span>
+          <span>+ others</span>
           {/* <span>C41 Magazine</span> */}
           {/* <span>Summer Drops, book <i>(sold out)</i></span> */}
           {/* Entrevista <a href="https://contraluzweb.wordpress.com/2022/05/08/milena-baeza/" target="_blank" rel="noreferrer">
