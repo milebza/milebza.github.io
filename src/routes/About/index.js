@@ -50,24 +50,24 @@ const About = () => (
 
       <div className="about-home__section">
         <p>
-          Photographer based in Lisbon, Portugal and available worldwide.
+          Photographer based between Paris and Lisbon, and available worldwide.<br /> Working on the fashion field
+          as well as developing personal stories.
         </p>
-        <p>
-        <a
+         <p> ⊹ <b>hello@milenabaeza.com</b> <br />
+         ⊹  <a
             href="https://www.instagram.com/milena.baeza/"
             target="_blank"
             rel="noreferrer"
           >@milena.baeza</a>
         </p>
-        <p> ⊹ </p>
-        <p className="about-home__short-p">
+        {/* <p className="about-home__short-p">
         Milena was born in 1992 and grew up in two different hemispheres (via Viña del Mar-Lisboa),{' '}
         eventually settling in Portugal in 2000 with her family. In recent years she dove deep{' '}
         into the medium of photography bringing plasticity, bold colours and shapes to her work.{' '}
         She portraits her subjects in intimate settings and explores themes like identity,{' '}
         vulnerability and natural beauty. For her, creativity has always been a tool for self-exploration{' '}
         and getting to know oneself. As a photographer she works in the fashion field as well as develops personal stories.
-        </p>
+        </p> */}
       </div>
       <div className="u-flex">
         <div className="">
@@ -101,7 +101,6 @@ const About = () => (
           CONTRALUZ
           </a><br /> */}
           </p>
-          <br /><br />
           <p>Exhibitions</p>
           <p className="about-home__cv-items">
             <span>ImageNation, Paris, 2023</span>
