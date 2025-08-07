@@ -15,21 +15,23 @@ const Menu = () => (
   <div className="menu">
     <div className="menu__wrapper">
       <div className="menu__header-wrapper">
-      <header className="menu__header">
+      <header>
       <NavLink
         to="/"
         className={({ isActive }) => setLinkHeaderClass(isActive)}
       >
+        <h2 className='menu__title'>
         milena<br />
         baeza
+        </h2>
       </NavLink>
     </header>
-    <div>
-      for inquiries<br />
-      <a href="mailto:hello@milenabaeza.com">hello@milenabaeza.com</a>
-    </div>
+      <p className='menu__p'>
+        for inquiries<br />
+        <a href="mailto:hello@milenabaeza.com">hello@milenabaeza.com</a>
+      </p>
       </div>
-    <nav className="menu__nav">
+    <nav className="menu__nav" aria-label="Primary navigation">
         <div>
         <NavLink
           to="/"

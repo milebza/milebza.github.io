@@ -10,14 +10,14 @@ import Menu from '../../components/Menu';
 const About = () => (
   <>
     <Menu />
-    <div className="about-home">
+    <main className="about-home">
 
-      <div className="about-home__show-desktop">
+      <section className="about-home__show-desktop">
       <div className="u-grid">
         <div className="about-home__col-2">
           <img
             src={about2}
-            alt="portfolio"
+            alt="Flower inside a shell, captured on film"
             className="img-fluid"
             loading="lazy"
             style={{ paddingRight: '5px' }}
@@ -26,31 +26,31 @@ const About = () => (
         <div className="about-home__col-2">
           <img
             src={about1}
-            alt="portfolio"
+            alt="Girl on her knees at the beach, captured on film"
             className="img-fluid"
             loading="lazy"
             style={{ paddingLeft: '5px' }}
           />
         </div>
       </div>
-      </div>
+      </section>
 
-      <div className="about-home__show-mobile">
+      <section className="about-home__show-mobile">
       <div className="u-grid">
         <div>
           <img
             src={about5}
-            alt="portfolio"
+            alt="Detailed shot of hands holding a bag made of bread, at Lisboa Fashion Week"
             className="img-fluid"
             loading="lazy"
           />
         </div>
       </div>
-      </div>
+      </section>
 
-      <div className="about-home__section">
+      <section className="about-home__section">
         <p>
-          Photographer based between Paris and Lisbon, and available worldwide.<br /> Working on the fashion field
+          Photographer based between Lisbon and Paris, offering remote and on-location photoshoots worldwide.<br /> Working on the fashion field
           as well as developing personal stories.
         </p>
          <p> ⊹ <b>hello@milenabaeza.com</b> <br />
@@ -68,49 +68,47 @@ const About = () => (
         vulnerability and natural beauty. For her, creativity has always been a tool for self-exploration{' '}
         and getting to know oneself. As a photographer she works in the fashion field as well as develops personal stories.
         </p> */}
-      </div>
-      <div className="u-flex">
+      </section>
+      <section className="u-flex">
         <div className="">
           <img
             src={work34}
-            alt="portfolio"
+            alt="Two girls laying on grass, captured on film"
             className="img-fluid"
             loading="lazy"
           />
         </div>
-      </div>
-      <div className="about-home__section">
-        <p className="about-home__small-text">
-          <p>Select clients</p>
-          <p className="about-home__cv-items">
-          <span>Vogue Portugal</span>
-          <span>Triumph</span>
-          <span>Beatriz Jardinha</span>
-          <span>Undress Code</span>
-          <span>Sian Swimwear</span>
-          <span>Ninfa Handmade</span>
-          <span>PALMIZA</span>
-          <span>Maria do Carmo Studio</span>
-          <span>Lisboa Fashion Week</span>
-          <span>Mulieris Magazine</span>
-          <span>Curated by GIRLS</span>
-          <span>+ others</span>
-          {/* <span>C41 Magazine</span> */}
-          {/* <span>Summer Drops, book <i>(sold out)</i></span> */}
+      </section>
+      <section className="about-home__section">
+        <h2 className="about-home__title">Select clients</h2>
+        <ul className="about-home__list" aria-label="Client list">
+          <li>Vogue Portugal</li>
+          <li>Triumph</li>
+          <li>Beatriz Jardinha</li>
+          <li>Undress Code</li>
+          <li>Sian Swimwear</li>
+          <li>Ninfa Handmade</li>
+          <li>PALMIZA</li>
+          <li>Maria do Carmo Studio</li>
+          <li>Lisboa Fashion Week</li>
+          <li>Mulieris Magazine</li>
+          <li>Curated by GIRLS</li>
+          <li>+ others</li>
+          {/* <li>C41 Magazine</li> */}
+          {/* <li>Summer Drops, book <i>(sold out)</i></li> */}
           {/* Entrevista <a href="https://contraluzweb.wordpress.com/2022/05/08/milena-baeza/" target="_blank" rel="noreferrer">
           CONTRALUZ
           </a><br /> */}
-          </p>
-          <p>Exhibitions</p>
-          <p className="about-home__cv-items">
-            <span>ImageNation, Paris, 2023</span>
-            <span>DOBRA, Lisboa, 2021</span>
-          </p>
-        </p>
-      </div>
+        </ul>
+        <h2 className="about-home__title">Exhibitions</h2>
+        <ul className="about-home__list" aria-label="Exhibitions list">
+          <li>ImageNation, Paris, 2023</li>
+          <li>DOBRA, Lisboa, 2021</li>
+        </ul>
+      </section>
       <br />
       <p><small>© all rights reserved</small></p>
-    </div>
+    </main>
   </>
 );
 
