@@ -2,7 +2,7 @@ import React from 'react';
 
 import work34 from '../../assets/work-34.jpg';
 import about1 from '../../assets/about-pic-01.jpg';
-import about2 from '../../assets/about-pic-02.jpg';
+import about8 from '../../assets/about-pic-08.jpg';
 import about5 from '../../assets/about-pic-05.JPG';
 
 import Menu from '../../components/Menu';
@@ -16,17 +16,17 @@ const About = () => (
       <div className="u-grid">
         <div className="about-home__col-2">
           <img
-            src={about2}
-            alt="Flower inside a shell, captured on film"
+            src={about1}
+            alt="Girl on her knees at the beach, captured on film"
             className="img-fluid"
             loading="lazy"
             style={{ paddingRight: '5px' }}
           />
         </div>
         <div className="about-home__col-2">
-          <img
-            src={about1}
-            alt="Girl on her knees at the beach, captured on film"
+            <img
+            src={about8}
+            alt="Shell, captured on film"
             className="img-fluid"
             loading="lazy"
             style={{ paddingLeft: '5px' }}
@@ -50,9 +50,12 @@ const About = () => (
 
       <section className="about-home__section">
         <p>
-          Photographer based between Lisbon and Paris, offering remote and on-location photoshoots worldwide.<br /> Working on the fashion field
-          as well as developing personal stories.
+          Photographer based between Lisbon and Paris, working on the fashion field
+          as well as developing personal stories.<br />
+          Offering remote and on-location photoshoots worldwide.
+          Portfolio upon request.
         </p>
+         <h2 className="about-home__title">For inquiries</h2>
          <p> ⊹ <b>hello@milenabaeza.com</b> <br />
          ⊹  <a
             href="https://www.instagram.com/milena.baeza/"
@@ -87,6 +90,7 @@ const About = () => (
           <li>Beatriz Jardinha</li>
           <li>Undress Code</li>
           <li>Sian Swimwear</li>
+          <li>BÉHEN</li>
           <li>Ninfa Handmade</li>
           <li>PALMIZA</li>
           <li>Maria do Carmo Studio</li>

@@ -38,7 +38,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={work01}
-            alt="man among poppies"
+            alt="Young man among poppy flowers, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -48,7 +48,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={testShoot01}
-            alt="girls laying in the grass"
+            alt="Two girls wearing contrasting one color clothes laying on grass, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -60,7 +60,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={beatrizJardinha02}
-            alt="still life"
+            alt="A pile of rings against a red backdrop, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -70,7 +70,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={undressCode01}
-            alt="girl at the beach"
+            alt="Young girl waling between rocks at the beach, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -80,7 +80,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={lfw01}
-            alt="backstage at lfw"
+            alt="Backstage at LFW"
             className="img-fluid"
             loading="lazy"
           />
@@ -90,7 +90,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={sianSwim01}
-            alt="girl floating"
+            alt="Young girl floating on a swimming pool, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -100,7 +100,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={work48}
-            alt="wet skin"
+            alt="Detailed shot of wet skin, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -110,7 +110,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={work07}
-            alt="water sparkle"
+            alt="Sun reflection on sea water, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -123,7 +123,7 @@ const Work = () => (
       <div className="work__img-wrapper">
           <img
             src={folclore01}
-            alt="girl laying in a sofa"
+            alt="Young girl laying in a sofa, captured on film and handprinted"
             className="img-fluid"
             loading="lazy"
           />
@@ -133,7 +133,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={beatrizJardinha01}
-            alt="girl wearing a necklace"
+            alt="Portrait of a young girl wearing a necklace, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -143,7 +143,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={ninfa02}
-            alt="girl looking down"
+            alt="Young girl looking down, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -153,7 +153,7 @@ const Work = () => (
       <div className="work__img-wrapper">
             <img
               src={pastelDreams01}
-              alt="girl holding"
+              alt="Young girl holding herself, captured on film"
               className="img-fluid"
               loading="lazy"
             />
@@ -163,7 +163,7 @@ const Work = () => (
         <div className="work__img-wrapper">
             <img
               src={work02}
-              alt="nature lanscape"
+              alt="Landscape through a train window, captured on film"
               className="img-fluid"
               loading="lazy"
             />
@@ -173,7 +173,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={palmiza01}
-            alt="girls laying"
+            alt="Young girl laying at the beach, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -183,7 +183,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={work11}
-            alt="swimming pool"
+            alt="A swimming pool, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -193,7 +193,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={work10}
-            alt="disco witch"
+            alt="Young girl laying down, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -203,7 +203,7 @@ const Work = () => (
         <div className="work__img-wrapper">
           <img
             src={work04}
-            alt="girls floating in water"
+            alt="Young girls floating in the water, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -213,7 +213,7 @@ const Work = () => (
       <div className="work__img-wrapper">
           <img
             src={omer01}
-            alt="tablescape"
+            alt="Tablescape"
             className="img-fluid"
             loading="lazy"
           />
@@ -226,7 +226,7 @@ const Work = () => (
     <div className="work__img-wrapper">
           <img
             src={beatrizJardinha04}
-            alt="stil life"
+            alt="Necklace around a fork, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -236,17 +236,17 @@ const Work = () => (
       <div className="work__img-wrapper">
           <img
             src={behen01}
-            alt="backstage at lfw"
+            alt="Backstage at LFW"
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc"><a href='https://www.behenstudio.com/read/i-dont-want-you-aw24-bts' rel="noreferrer"  target='_blank'>Béhen backstage at LFW</a>, spring 2024</p>
+          <p className="work__desc">Béhen backstage at LFW, spring 2024 <a href='https://www.behenstudio.com/read/i-dont-want-you-aw24-bts' rel="noreferrer"  target='_blank'>[link]</a></p>
         </div>
 
       <div className="work__img-wrapper">
           <img
             src={ribbon01}
-            alt="girl in the grass"
+            alt="Young girl rolling in the grass and laughing, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -256,7 +256,7 @@ const Work = () => (
       <div className="work__img-wrapper">
           <img
             src={lfw02}
-            alt="backstage at lfw"
+            alt="Backstage at LFW"
             className="img-fluid"
             loading="lazy"
           />
@@ -266,7 +266,7 @@ const Work = () => (
       <div className="work__img-wrapper">
           <img
             src={beatrizJardinha03}
-            alt="girl in a terrace"
+            alt="Young girl in a terrace"
             className="img-fluid"
             loading="lazy"
           />
@@ -276,7 +276,7 @@ const Work = () => (
       <div className="work__img-wrapper">
           <img
             src={work08}
-            alt="girl laying in a rock"
+            alt="Young girl laying on a rock, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -286,7 +286,7 @@ const Work = () => (
       <div className="work__img-wrapper">
           <img
             src={work09}
-            alt="cactus"
+            alt="Cactus, captured on film"
             className="img-fluid"
             loading="lazy"
           />
@@ -296,7 +296,7 @@ const Work = () => (
       <div className="work__img-wrapper">
           <img
             src={work12}
-            alt="tangled legs"
+            alt="Tangled legs"
             className="img-fluid"
             loading="lazy"
           />
@@ -304,9 +304,8 @@ const Work = () => (
       </div>
     </div>
     </div>
-      <div className="work__img-wrapper">
-        <br />
-        <p><small>© all rights reserved</small></p>
+      <div className="u-grid">
+        <p style={{ paddingLeft: 60 }}><small>© all rights reserved</small></p>
       </div>
     </div>
   </>
