@@ -74,7 +74,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc">Undress Code, summer 2023</p>
+          <p className="work__desc">Undress Code, summer 2023  <a href='https://www.youtube.com/watch?v=38fPng97uKo' rel="noreferrer"  target='_blank'>[link]</a></p>
         </div>
 
         <div className="work__img-wrapper">
