@@ -217,7 +217,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc">Omer Gilony for Dolce Vita event, summer 2023</p>
+          <p className="work__desc">Omer Gilony for Dolce Vita event, summer 2023 <a href='https://youtu.be/WAjyBZNrxL8' rel="noreferrer" target='_blank'>[link]</a></p>
         </div>
     </div>
 
@@ -270,7 +270,7 @@ const Work = () => (
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc">Beatriz Jardinha, summer 2023</p>
+          <p className="work__desc">Beatriz Jardinha, summer 2023 <a rel="noreferrer" href='https://youtu.be/hawCMTmai54' target='_blank'>[link]</a></p>
         </div>
 
       <div className="work__img-wrapper">

@@ -2,7 +2,7 @@ import React from 'react';
 
 import work34 from '../../assets/work-34.jpg';
 import about1 from '../../assets/about-pic-01.jpg';
-import about8 from '../../assets/about-pic-03.jpg';
+import about3 from '../../assets/about-pic-03.jpg';
 import about5 from '../../assets/about-pic-05.JPG';
 
 import Menu from '../../components/Menu';
@@ -16,8 +16,8 @@ const About = () => (
       <div className="u-grid">
         <div className="about-home__col-2">
           <img
-            src={about8}
-            alt="Shell, captured on film"
+            src={about3}
+            alt="Jewelry against a white backdrop, captured on film"
             className="img-fluid"
             loading="lazy"
             style={{ paddingRight: '5px' }}
