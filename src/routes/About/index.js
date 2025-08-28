@@ -89,6 +89,7 @@ const About = () => (
           <li>Triumph</li>
           <li>Beatriz Jardinha</li>
           <li>Undress Code</li>
+          <li>Grazia Bulgaria</li>
           <li>Sian Swimwear</li>
           <li>BÉHEN</li>
           <li>Ninfa Handmade</li>
