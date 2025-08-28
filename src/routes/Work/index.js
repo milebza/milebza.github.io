@@ -16,7 +16,6 @@ import pastelDreams01 from '../../assets/pastel-dreams-01.jpg';
 import sianSwim01 from '../../assets/sian-swim-01.jpg';
 import testShoot01 from '../../assets/test-shoot-01.jpg';
 import palmiza01 from '../../assets/palmiza-01.jpg';
-import lfw01 from '../../assets/lfw-01.png';
 import lfw02 from '../../assets/lfw-02.jpg';
 import ribbon01 from '../../assets/ribbon-01.jpg';
 import beatrizJardinha01 from '../../assets/beatriz-jardinha-01.jpg';
@@ -27,6 +26,8 @@ import undressCode01 from '../../assets/undress-code-01.gif';
 import omer01 from '../../assets/omer-01.gif';
 import beatrizJardinha04 from '../../assets/beatriz-jardinha-04.jpg';
 import behen01 from '../../assets/behen-01.jpg';
+import mariaRolling01 from '../../assets/maria-rolling-01.jpg';
+import heirlooms01 from '../../assets/heirlooms-01.jpg';
 
 const Work = () => (
   <>
@@ -43,6 +44,18 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc">B among poppy flowers, Photo Vogue, spring 2021</p>
+        </div>
+
+         <div className="work__img-wrapper">
+          <img
+            src={mariaRolling01}
+            alt="A girl rolling on grass, captured on film"
+            className="img-fluid"
+            loading="lazy"
+          />
+          <p className="work__desc">
+            Maria rolling on grass, spring 2025
+          </p>
         </div>
 
         <div className="work__img-wrapper">
@@ -79,16 +92,6 @@ const Work = () => (
 
         <div className="work__img-wrapper">
           <img
-            src={lfw01}
-            alt="Backstage at LFW"
-            className="img-fluid"
-            loading="lazy"
-          />
-          <p className="work__desc">Backstage pictures for LFW, spring 2022</p>
-        </div>
-
-        <div className="work__img-wrapper">
-          <img
             src={sianSwim01}
             alt="Young girl floating on a swimming pool, captured on film"
             className="img-fluid"
@@ -120,6 +123,18 @@ const Work = () => (
 
       {/** COLUMN 02 */}
       <div className="u-col-3">
+        <div className="work__img-wrapper">
+          <img
+            src={heirlooms01}
+            alt="A girl rolling on grass, captured on film"
+            className="img-fluid"
+            loading="lazy"
+          />
+          <p className="work__desc">
+            Editorial <i>Heirlooms</i> for Vogue Portugal, spring 2024
+          </p>
+        </div>
+
       <div className="work__img-wrapper">
           <img
             src={folclore01}
@@ -128,16 +143,6 @@ const Work = () => (
             loading="lazy"
           />
           <p className="work__desc">Folklore, Photo Vogue, winter 2023</p>
-        </div>
-
-        <div className="work__img-wrapper">
-          <img
-            src={beatrizJardinha01}
-            alt="Portrait of a young girl wearing a necklace, captured on film"
-            className="img-fluid"
-            loading="lazy"
-          />
-          <p className="work__desc">Beatriz Jardinha, summer 2023</p>
         </div>
 
         <div className="work__img-wrapper">
@@ -223,7 +228,7 @@ const Work = () => (
 
     {/** COLUMN 03 */}
     <div className="u-col-3">
-    <div className="work__img-wrapper">
+      <div className="work__img-wrapper">
           <img
             src={beatrizJardinha04}
             alt="Necklace around a fork, captured on film"
