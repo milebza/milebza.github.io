@@ -50,12 +50,9 @@ const About = () => (
 
       <section className="about-home__section">
         <p>
-          Photographer based between Lisbon and Paris, working on the fashion field
-          as well as developing personal stories.<br />
-          Offering remote and on-location photoshoots worldwide.
-          Portfolio upon request.
+          Chilean-portuguese photographer based between Lisbon and Paris. Portfolio upon request.<br />
         </p>
-         <h2 className="about-home__title">For inquiries</h2>
+         <h2 className="about-home__title">For inquiries:</h2>
          <p> ⊹ <b>hello@milenabaeza.com</b> <br />
          ⊹  <a
             href="https://www.instagram.com/milena.baeza/"
@@ -86,15 +83,17 @@ const About = () => (
         <h2 className="about-home__title">Select clients</h2>
         <ul className="about-home__list" aria-label="Client list">
           <li>Vogue Portugal</li>
+           <li>Grazia Bulgaria</li>
           <li>Triumph</li>
+          <li>Magda Butrym</li>
           <li>Beatriz Jardinha</li>
           <li>Undress Code</li>
-          <li>Grazia Bulgaria</li>
           <li>Sian Swimwear</li>
           <li>BÉHEN</li>
           <li>Ninfa Handmade</li>
           <li>PALMIZA</li>
           <li>Maria do Carmo Studio</li>
+          <li>Paris Fashion Week</li>
           <li>Lisboa Fashion Week</li>
           <li>Mulieris Magazine</li>
           <li>Curated by GIRLS</li>

@@ -162,7 +162,7 @@ const Work = () => (
               className="img-fluid"
               loading="lazy"
             />
-            <p className="work__desc">Pastel Dreams for Mulieris Magazine, Issue 4, spring 2022</p>
+            <p className="work__desc">Pastel Dreams for Mulieris Magazine, print Issue 4, spring 2022</p>
         </div>
 
         <div className="work__img-wrapper">
