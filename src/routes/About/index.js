@@ -4,6 +4,7 @@ import work34 from '../../assets/work-34.jpg';
 import about1 from '../../assets/about-pic-01.jpg';
 import about5 from '../../assets/about-pic-05.JPG';
 import about6 from '../../assets/ceramic-01.jpg';
+import behen01 from '../../assets/behen-01.jpg';
 
 import Menu from '../../components/Menu';
 
@@ -14,24 +15,14 @@ const About = () => (
 
       <section className="about-home__show-desktop">
       <div className="u-grid">
-        <div className="about-home__col-2">
-          <img
-            src={about6}
-            alt="Ceramic close up, captured on film"
+        <div>
+         <img
+            src={behen01}
+            alt="Backstage at Béhen LFW"
             className="img-fluid"
             loading="lazy"
-            style={{ paddingRight: '5px' }}
           />
-        </div>
-        <div className="about-home__col-2">
-            <img
-            src={about1}
-            alt="Girl on her knees at the beach, captured on film"
-            className="img-fluid"
-            loading="lazy"
-            style={{ paddingLeft: '5px' }}
-          />
-        </div>
+          </div>
       </div>
       </section>
 
@@ -82,10 +73,10 @@ const About = () => (
       <section className="about-home__section">
         <h2 className="about-home__title">Select clients</h2>
         <ul className="about-home__list" aria-label="Client list">
-          <li>Vogue Portugal</li>
-           <li>Grazia Bulgaria</li>
           <li>Triumph</li>
-          <li>Magda Butrym</li>
+          <li>Vogue Portugal</li>
+          <li>Grazia Bulgaria</li>
+          <li>Florentina Leitner</li>
           <li>Beatriz Jardinha</li>
           <li>Undress Code</li>
           <li>Sian Swimwear</li>
