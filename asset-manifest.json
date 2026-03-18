@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2f2cc8c1.css",
-    "main.js": "/static/js/main.5f476140.js",
+    "main.js": "/static/js/main.9b15dd4f.js",
     "static/js/787.023f75d1.chunk.js": "/static/js/787.023f75d1.chunk.js",
     "static/media/work-34.jpg": "/static/media/work-34.8b99ccddf71a39e16396.jpg",
     "static/media/work-48.jpg": "/static/media/work-48.63bf6c2316132887feaa.jpg",
@@ -13,8 +13,8 @@
     "static/media/work-04.jpg": "/static/media/work-04.741d1f5829f9da928db1.jpg",
     "static/media/work-01.jpg": "/static/media/work-01.6c9c98de1081630ec6db.jpg",
     "static/media/work-12.jpg": "/static/media/work-12.b33bfce49b6fc6b58985.jpg",
+    "static/media/behen-01.jpg": "/static/media/behen-01.175a7ae8ae02f2be2726.jpg",
     "static/media/maria-rolling-01.jpg": "/static/media/maria-rolling-01.277341c3c9d0ccfcfbc3.jpg",
-    "static/media/about-pic-01.jpg": "/static/media/about-pic-01.84fe8c3540a2c5be86fa.jpg",
     "static/media/ribbon-01.jpg": "/static/media/ribbon-01.7d4944656eecc4be4460.jpg",
     "static/media/beatriz-jardinha-02.jpg": "/static/media/beatriz-jardinha-02.cf090f26059a3d3e68ef.jpg",
     "static/media/heirlooms-01.jpg": "/static/media/heirlooms-01.7b824970690801648086.jpg",
@@ -22,9 +22,7 @@
     "static/media/work-07.jpg": "/static/media/work-07.dbf762c452e139df05d6.jpg",
     "static/media/work-08.jpg": "/static/media/work-08.173c6ac44b4b5571582c.jpg",
     "static/media/work-09.jpg": "/static/media/work-09.c286750a8f228b9949cc.jpg",
-    "static/media/behen-01.jpg": "/static/media/behen-01.f7d55fe2e562f98c9e1a.jpg",
     "static/media/ninfa-02.jpg": "/static/media/ninfa-02.78e3a84ddb49388025d9.jpg",
-    "static/media/ceramic-01.jpg": "/static/media/ceramic-01.44c62973e3779d7b65ca.jpg",
     "static/media/beatriz-jardinha-04.jpg": "/static/media/beatriz-jardinha-04.27d50eba7b2b19c60836.jpg",
     "static/media/work-11.jpg": "/static/media/work-11.70d6ea60fbe4a057b314.jpg",
     "static/media/sian-swim-01.jpg": "/static/media/sian-swim-01.64ad03583467f09debb5.jpg",
@@ -42,11 +40,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.2f2cc8c1.css.map": "/static/css/main.2f2cc8c1.css.map",
-    "main.5f476140.js.map": "/static/js/main.5f476140.js.map",
+    "main.9b15dd4f.js.map": "/static/js/main.9b15dd4f.js.map",
     "787.023f75d1.chunk.js.map": "/static/js/787.023f75d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f2cc8c1.css",
-    "static/js/main.5f476140.js"
+    "static/js/main.9b15dd4f.js"
   ]
 }
