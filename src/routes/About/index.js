@@ -1,9 +1,7 @@
 import React from 'react';
 
 import work34 from '../../assets/work-34.jpg';
-import about1 from '../../assets/about-pic-01.jpg';
 import about5 from '../../assets/about-pic-05.JPG';
-import about6 from '../../assets/ceramic-01.jpg';
 import behen01 from '../../assets/behen-01.jpg';
 
 import Menu from '../../components/Menu';
@@ -31,7 +29,7 @@ const About = () => (
         <div>
           <img
             src={about5}
-            alt="Detailed shot of hands holding a bag made of bread, at Lisboa Fashion Week"
+            alt="Detailed shot of hands holding a bag made of bread, at Fashion Week"
             className="img-fluid"
             loading="lazy"
           />
@@ -45,7 +43,8 @@ const About = () => (
         </p>
          <h2 className="about-home__title">For inquiries:</h2>
          <p> ⊹ <b>hello@milenabaeza.com</b> <br />
-         ⊹  <a
+         <br />
+         <a
             href="https://www.instagram.com/milena.baeza/"
             target="_blank"
             rel="noreferrer"
@@ -88,7 +87,7 @@ const About = () => (
           <li>Lisboa Fashion Week</li>
           <li>Mulieris Magazine</li>
           <li>Curated by GIRLS</li>
-          <li>+ others</li>
+          <li>+ more</li>
           {/* <li>C41 Magazine</li> */}
           {/* <li>Summer Drops, book <i>(sold out)</i></li> */}
           {/* Entrevista <a href="https://contraluzweb.wordpress.com/2022/05/08/milena-baeza/" target="_blank" rel="noreferrer">
