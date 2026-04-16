@@ -59,7 +59,7 @@ const About = () => (
         and getting to know oneself. As a photographer she works in the fashion field as well as develops personal stories.
         </p> */}
       </section>
-      <section className="u-flex">
+      {/* <section className="u-flex">
         <div className="">
           <img
             src={work34}
@@ -68,23 +68,20 @@ const About = () => (
             loading="lazy"
           />
         </div>
-      </section>
+      </section> */}
       <section className="about-home__section">
         <h2 className="about-home__title">Select clients</h2>
         <ul className="about-home__list" aria-label="Client list">
-          <li>Triumph</li>
           <li>Vogue Portugal</li>
           <li>Grazia Bulgaria</li>
+          <li>Triumph</li>
           <li>Florentina Leitner</li>
           <li>Beatriz Jardinha</li>
           <li>Undress Code</li>
-          <li>Sian Swimwear</li>
           <li>BÉHEN</li>
           <li>Ninfa Handmade</li>
           <li>PALMIZA</li>
           <li>Maria do Carmo Studio</li>
-          <li>Paris Fashion Week</li>
-          <li>Lisboa Fashion Week</li>
           <li>Mulieris Magazine</li>
           <li>Curated by GIRLS</li>
           <li>+ more</li>
