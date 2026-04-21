@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2f2cc8c1.css",
-    "main.js": "/static/js/main.4b2ab39b.js",
+    "main.js": "/static/js/main.b8d4afa8.js",
     "static/js/787.023f75d1.chunk.js": "/static/js/787.023f75d1.chunk.js",
     "static/media/work-34.jpg": "/static/media/work-34.8b99ccddf71a39e16396.jpg",
     "static/media/work-48.jpg": "/static/media/work-48.63bf6c2316132887feaa.jpg",
@@ -14,12 +14,17 @@
     "static/media/work-01.jpg": "/static/media/work-01.6c9c98de1081630ec6db.jpg",
     "static/media/work-12.jpg": "/static/media/work-12.b33bfce49b6fc6b58985.jpg",
     "static/media/behen-01.jpg": "/static/media/behen-01.175a7ae8ae02f2be2726.jpg",
+    "static/media/grazia-bulgaria-01.jpg": "/static/media/grazia-bulgaria-01.129ad08b1b82e28d40f5.jpg",
     "static/media/maria-rolling-01.jpg": "/static/media/maria-rolling-01.277341c3c9d0ccfcfbc3.jpg",
     "static/media/ribbon-01.jpg": "/static/media/ribbon-01.7d4944656eecc4be4460.jpg",
     "static/media/beatriz-jardinha-02.jpg": "/static/media/beatriz-jardinha-02.cf090f26059a3d3e68ef.jpg",
+    "static/media/florentina-leitner-pfw-01.jpg": "/static/media/florentina-leitner-pfw-01.4bd236c2ba70f8097c4f.jpg",
+    "static/media/magda-butrym-pfw-01.jpg": "/static/media/magda-butrym-pfw-01.e21a640701724b4419f7.jpg",
     "static/media/heirlooms-01.jpg": "/static/media/heirlooms-01.7b824970690801648086.jpg",
     "static/media/folclore-01.jpg": "/static/media/folclore-01.25b9c8600e2fa21d64e9.jpg",
+    "static/media/grazia-bulgaria-02.jpg": "/static/media/grazia-bulgaria-02.15c5ae609823914728ab.jpg",
     "static/media/work-07.jpg": "/static/media/work-07.dbf762c452e139df05d6.jpg",
+    "static/media/lfw-02.jpg": "/static/media/lfw-02.6f95b7657e1b04bc3a3e.jpg",
     "static/media/work-08.jpg": "/static/media/work-08.173c6ac44b4b5571582c.jpg",
     "static/media/work-09.jpg": "/static/media/work-09.c286750a8f228b9949cc.jpg",
     "static/media/ninfa-02.jpg": "/static/media/ninfa-02.78e3a84ddb49388025d9.jpg",
@@ -27,9 +32,7 @@
     "static/media/work-11.jpg": "/static/media/work-11.70d6ea60fbe4a057b314.jpg",
     "static/media/sian-swim-01.jpg": "/static/media/sian-swim-01.64ad03583467f09debb5.jpg",
     "static/media/work-02.jpg": "/static/media/work-02.28e1e077d52e0ddba6f9.jpg",
-    "static/media/lfw-02.jpg": "/static/media/lfw-02.e176b0084303c6f79bbc.jpg",
     "static/media/test-shoot-01.jpg": "/static/media/test-shoot-01.2a1510575282d3027385.jpg",
-    "static/media/beatriz-jardinha-01.jpg": "/static/media/beatriz-jardinha-01.48164e7c0cbcf6e6ab5b.jpg",
     "static/media/work-10.jpg": "/static/media/work-10.c8a46144bf7417704aa3.jpg",
     "static/media/book-01.jpg": "/static/media/book-01.42103403b0a35a8c2fb4.jpg",
     "static/media/pastel-dreams-01.jpg": "/static/media/pastel-dreams-01.482889ec579f03ea0469.jpg",
@@ -40,11 +43,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.2f2cc8c1.css.map": "/static/css/main.2f2cc8c1.css.map",
-    "main.4b2ab39b.js.map": "/static/js/main.4b2ab39b.js.map",
+    "main.b8d4afa8.js.map": "/static/js/main.b8d4afa8.js.map",
     "787.023f75d1.chunk.js.map": "/static/js/787.023f75d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f2cc8c1.css",
-    "static/js/main.4b2ab39b.js"
+    "static/js/main.b8d4afa8.js"
   ]
 }
