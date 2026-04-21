@@ -18,7 +18,6 @@ import testShoot01 from '../../assets/test-shoot-01.jpg';
 import palmiza01 from '../../assets/palmiza-01.jpg';
 import lfw02 from '../../assets/lfw-02.jpg';
 import ribbon01 from '../../assets/ribbon-01.jpg';
-import beatrizJardinha01 from '../../assets/beatriz-jardinha-01.jpg';
 import beatrizJardinha02 from '../../assets/beatriz-jardinha-02.jpg';
 import beatrizJardinha03 from '../../assets/beatriz-jardinha-03.gif';
 import folclore01 from '../../assets/folclore-01.jpg';
@@ -28,6 +27,10 @@ import beatrizJardinha04 from '../../assets/beatriz-jardinha-04.jpg';
 import behen01 from '../../assets/behen-01.jpg';
 import mariaRolling01 from '../../assets/maria-rolling-01.jpg';
 import heirlooms01 from '../../assets/heirlooms-01.jpg';
+import graziaBulgaria01 from '../../assets/grazia-bulgaria-01.jpg';
+import graziaBulgaria02 from '../../assets/grazia-bulgaria-02.jpg';
+import magdaButrymPfw01 from '../../assets/magda-butrym-pfw-01.jpg';
+import florentinaLeitnerPfw01 from '../../assets/florentina-leitner-pfw-01.jpg';
 
 const Work = () => (
   <>
@@ -38,12 +41,14 @@ const Work = () => (
       <div className="u-col-3">
         <div className="work__img-wrapper">
           <img
-            src={work01}
-            alt="Young man among poppy flowers, captured on film"
+            src={heirlooms01}
+            alt="A girl rolling on grass, captured on film"
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc">B among poppy flowers, Photo Vogue, spring 2021</p>
+          <p className="work__desc">
+            Editorial <i>Heirlooms</i> for Vogue Portugal, spring 2024
+          </p>
         </div>
 
          <div className="work__img-wrapper">
@@ -92,16 +97,6 @@ const Work = () => (
 
         <div className="work__img-wrapper">
           <img
-            src={sianSwim01}
-            alt="Young girl floating on a swimming pool, captured on film"
-            className="img-fluid"
-            loading="lazy"
-          />
-          <p className="work__desc">Sian Swimwear, spring 2022</p>
-        </div>
-
-        <div className="work__img-wrapper">
-          <img
             src={work48}
             alt="Detailed shot of wet skin, captured on film"
             className="img-fluid"
@@ -119,20 +114,28 @@ const Work = () => (
           />
           <p className="work__desc">Sparkles, spring 2021</p>
       </div>
+
+       <div className="work__img-wrapper">
+          <img
+            src={work09}
+            alt="Cactus, captured on film"
+            className="img-fluid"
+            loading="lazy"
+          />
+          <p className="work__desc">Cactus in Lanzarote, summer 2022</p>
+        </div>
       </div>
 
       {/** COLUMN 02 */}
       <div className="u-col-3">
         <div className="work__img-wrapper">
           <img
-            src={heirlooms01}
-            alt="A girl rolling on grass, captured on film"
+            src={graziaBulgaria01}
+            alt="Editorial Grazia Bulgaria, captured on film"
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc">
-            Editorial <i>Heirlooms</i> for Vogue Portugal, spring 2024
-          </p>
+          <p className="work__desc">Editorial <i>In Between Thoughts</i> for Grazia Bulgaria, September print issue, autumn 2025</p>
         </div>
 
       <div className="work__img-wrapper">
@@ -147,13 +150,23 @@ const Work = () => (
 
         <div className="work__img-wrapper">
           <img
-            src={ninfa02}
-            alt="Young girl looking down, captured on film"
+            src={magdaButrymPfw01}
+            alt="Backstage portrait of a model at Magda Butrym show"
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc">Ninfa handmade winter 2022</p>
-      </div>
+          <p className="work__desc">Magda Butrym backstage at PFW SS26, autumn 2025 <a href='https://vein.es/magda-butrym-rewrites-intimacy-at-paris-fashion-week/' rel="noreferrer"  target='_blank'>[link]</a></p>
+        </div>
+
+        <div className="work__img-wrapper">
+          <img
+            src={graziaBulgaria02}
+            alt="Editorial Grazia Bulgaria, captured on film"
+            className="img-fluid"
+            loading="lazy"
+          />
+          <p className="work__desc">Editorial <i>In Between Thoughts</i> for Grazia Bulgaria, September print issue, autumn 2025</p>
+        </div>
 
       <div className="work__img-wrapper">
             <img
@@ -204,26 +217,6 @@ const Work = () => (
           />
           <p className="work__desc">Disco Witch campaign for Non Manon, autumn 2021</p>
         </div>
-
-        <div className="work__img-wrapper">
-          <img
-            src={work04}
-            alt="Young girls floating in the water, captured on film"
-            className="img-fluid"
-            loading="lazy"
-          />
-          <p className="work__desc">Sisters floating in water, summer 2020</p>
-      </div>
-
-      <div className="work__img-wrapper">
-          <img
-            src={omer01}
-            alt="Tablescape"
-            className="img-fluid"
-            loading="lazy"
-          />
-          <p className="work__desc">Omer Gilony for Dolce Vita event, summer 2023 <a href='https://youtu.be/WAjyBZNrxL8' rel="noreferrer" target='_blank'>[link]</a></p>
-        </div>
     </div>
 
     {/** COLUMN 03 */}
@@ -238,7 +231,17 @@ const Work = () => (
           <p className="work__desc">Beatriz Jardinha II, winter 2024</p>
       </div>
 
-      <div className="work__img-wrapper">
+        <div className="work__img-wrapper">
+          <img
+            src={florentinaLeitnerPfw01}
+            alt="Backstage at Florentina Leitner"
+            className="img-fluid"
+            loading="lazy"
+          />
+          <p className="work__desc">Florentina Leitner backstage at PFW SS26, autumn 2025 <a href='https://vein.es/florentina-leitner-backstage-ss26/' rel="noreferrer"  target='_blank'>[link]</a></p>
+        </div>
+
+        <div className="work__img-wrapper">
           <img
             src={behen01}
             alt="Backstage at LFW"
@@ -248,15 +251,15 @@ const Work = () => (
           <p className="work__desc">Béhen backstage at LFW, spring 2024 <a href='https://www.behenstudio.com/read/i-dont-want-you-aw24-bts' rel="noreferrer"  target='_blank'>[link]</a></p>
         </div>
 
-      <div className="work__img-wrapper">
+       <div className="work__img-wrapper">
           <img
-            src={ribbon01}
-            alt="Young girl rolling in the grass and laughing, captured on film"
+            src={work01}
+            alt="Young man among poppy flowers, captured on film"
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc">Ribbon, spring 2023</p>
-      </div>
+          <p className="work__desc">B among poppy flowers, Photo Vogue, spring 2021</p>
+        </div>
 
       <div className="work__img-wrapper">
           <img
@@ -288,25 +291,6 @@ const Work = () => (
           <p className="work__desc">Balm for the soul for Curated by GIRLS, summer 2022</p>
       </div>
 
-      <div className="work__img-wrapper">
-          <img
-            src={work09}
-            alt="Cactus, captured on film"
-            className="img-fluid"
-            loading="lazy"
-          />
-          <p className="work__desc">Cactus in Lanzarote, summer 2022</p>
-      </div>
-
-      <div className="work__img-wrapper">
-          <img
-            src={work12}
-            alt="Tangled legs"
-            className="img-fluid"
-            loading="lazy"
-          />
-          <p className="work__desc">Tangled legs of A & F, summer 2020</p>
-      </div>
     </div>
     </div>
       <div className="u-grid">

@@ -39,16 +39,14 @@ const About = () => (
 
       <section className="about-home__section">
         <p>
-          Chilean-portuguese photographer based between Lisbon and Paris. Portfolio upon request.<br />
-        </p>
-         <h2 className="about-home__title">For inquiries:</h2>
-         <p> ⊹ <b>hello@milenabaeza.com</b> <br />
-         <br />
-         <a
+          Chilean-portuguese photographer based between Lisbon and Paris. Portfolio upon request. <a
             href="https://www.instagram.com/milena.baeza/"
             target="_blank"
             rel="noreferrer"
-          >@milena.baeza</a>
+          >@milena.baeza</a><br />
+        </p>
+         <h2 className="about-home__title">For inquiries:</h2>
+         <p> ⊹ <b>hello@milenabaeza.com</b> <br />
         </p>
         {/* <p className="about-home__short-p">
         Milena was born in 1992 and grew up in two different hemispheres (via Viña del Mar-Lisboa),{' '}
@@ -91,11 +89,11 @@ const About = () => (
           CONTRALUZ
           </a><br /> */}
         </ul>
-        <h2 className="about-home__title">Exhibitions</h2>
+        {/* <h2 className="about-home__title">Exhibitions</h2>
         <ul className="about-home__list" aria-label="Exhibitions list">
           <li>ImageNation, Paris, 2023</li>
           <li>DOBRA, Lisboa, 2021</li>
-        </ul>
+        </ul> */}
       </section>
       <br />
       <p><small>© all rights reserved</small></p>
