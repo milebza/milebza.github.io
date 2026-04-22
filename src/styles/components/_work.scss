@@ -9,9 +9,21 @@
     &__img-wrapper {
         margin: 50px;
         max-width: 250px;
+    }
 
-        @media (max-width: $small-screen) {
-            margin: 20px;
+    &__show-desktop {
+        display: block;
+
+        @media (max-width: $medium-screen) {
+            display: none;
+        }
+    }
+
+    &__show-mobile {
+         display: none;
+    
+        @media (max-width: $medium-screen) {
+            display: block;
         }
     }
 }
