@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3799b5c.css",
-    "main.js": "/static/js/main.8bf836c7.js",
+    "main.css": "/static/css/main.7d15bf97.css",
+    "main.js": "/static/js/main.fa18169b.js",
     "static/js/787.023f75d1.chunk.js": "/static/js/787.023f75d1.chunk.js",
     "static/media/work-34.jpg": "/static/media/work-34.8b99ccddf71a39e16396.jpg",
     "static/media/work-48.jpg": "/static/media/work-48.63bf6c2316132887feaa.jpg",
@@ -29,12 +29,12 @@
     "static/media/work-09.jpg": "/static/media/work-09.c286750a8f228b9949cc.jpg",
     "static/media/ninfa-02.jpg": "/static/media/ninfa-02.78e3a84ddb49388025d9.jpg",
     "static/media/beatriz-jardinha-04.jpg": "/static/media/beatriz-jardinha-04.27d50eba7b2b19c60836.jpg",
+    "static/media/substack.jpg": "/static/media/substack.1ad91a78ca039e5e9bac.jpg",
     "static/media/work-11.jpg": "/static/media/work-11.70d6ea60fbe4a057b314.jpg",
     "static/media/sian-swim-01.jpg": "/static/media/sian-swim-01.64ad03583467f09debb5.jpg",
     "static/media/work-02.jpg": "/static/media/work-02.28e1e077d52e0ddba6f9.jpg",
     "static/media/test-shoot-01.jpg": "/static/media/test-shoot-01.2a1510575282d3027385.jpg",
     "static/media/work-10.jpg": "/static/media/work-10.c8a46144bf7417704aa3.jpg",
-    "static/media/book-01.jpg": "/static/media/book-01.42103403b0a35a8c2fb4.jpg",
     "static/media/pastel-dreams-01.jpg": "/static/media/pastel-dreams-01.482889ec579f03ea0469.jpg",
     "static/media/AkzidenzGrotesk-Regular.woff": "/static/media/AkzidenzGrotesk-Regular.552a1f0faaa5be7115ea.woff",
     "index.html": "/index.html",
@@ -42,12 +42,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.a3799b5c.css.map": "/static/css/main.a3799b5c.css.map",
-    "main.8bf836c7.js.map": "/static/js/main.8bf836c7.js.map",
+    "main.7d15bf97.css.map": "/static/css/main.7d15bf97.css.map",
+    "main.fa18169b.js.map": "/static/js/main.fa18169b.js.map",
     "787.023f75d1.chunk.js.map": "/static/js/787.023f75d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3799b5c.css",
-    "static/js/main.8bf836c7.js"
+    "static/css/main.7d15bf97.css",
+    "static/js/main.fa18169b.js"
   ]
 }
