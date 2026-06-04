@@ -39,13 +39,12 @@ const About = () => (
 
       <section className="about-home__section">
         <p>
-          Chilean-portuguese photographer based between Lisbon and Paris. Portfolio upon request.
+          Chilean-portuguese photographer based between Paris and Lisbon. Portfolio upon request.
         </p>
         <br />
          <h2 className="about-home__title">For inquiries:</h2>
          <p> ⊹ <b>hello@milenabaeza.com</b> </p>
 
-         <h2 className="about-home__title">Instagram:</h2>
          <p> <a
             href="https://www.instagram.com/milena.baeza/"
             target="_blank"

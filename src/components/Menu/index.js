@@ -48,9 +48,9 @@ const Menu = () => (
         </div>
         <div>
         <NavLink
-          to="/book"
+          to="/my-journal"
           className={({ isActive }) => setLinkClass(isActive)}
-        >Book</NavLink>
+        >My journal</NavLink>
         </div>
     </nav>
     </div>

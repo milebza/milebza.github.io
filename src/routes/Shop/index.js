@@ -1,30 +1,29 @@
 import React from 'react';
 import Menu from '../../components/Menu';
-import book01 from '../../assets/book-01.jpg';
+import substack from '../../assets/substack.jpg';
 
 const Shop = () => (
   <>
   <Menu />
-  <div className="about-home">
+  <div className="course__page">
     <div className="shop__item-info">
       <div>
         <img
-          src={book01}
-          alt="book open"
-          className="img-fluid about-home__img"
+          src={substack}
+          alt="diary page"
           loading="lazy"
+          className='img-fluid course__image'
         />
       </div>
-      <p><i>summer drops</i></p>
       <p>⊹</p>
-      <p>A book by sisters Amanda Baeza and Milena Baeza.</p>
-      <p>Mixed media.<br />Book in english.<br />Hardcover with golden foil details.<br />
-        140 pages (includes cover) full color (digital print), A5 format.</p>
-      <p>Printed July 2023.</p>
+      <p><i>In service of image making</i></p>
+      <p>The diary of a photographer in the fashion industry</p>
       <br />
-      <button className="course__button" disabled>
-        sold out
-      </button>
+      <a href='https://inserviceofimagemaking.substack.com/' target='_blank' rel="noreferrer">
+        <button className="course__button">
+          Enter
+        </button>
+      </a>
       <br />
       
     </div>
