@@ -49,30 +49,13 @@ const About = () => (
             href="https://www.instagram.com/milena.baeza/"
             target="_blank"
             rel="noreferrer"
-          >@milena.baeza</a>
+          >ig @milena.baeza</a>
         </p>
-        {/* <p className="about-home__short-p">
-        Milena was born in 1992 and grew up in two different hemispheres (via Viña del Mar-Lisboa),{' '}
-        eventually settling in Portugal in 2000 with her family. In recent years she dove deep{' '}
-        into the medium of photography bringing plasticity, bold colours and shapes to her work.{' '}
-        She portraits her subjects in intimate settings and explores themes like identity,{' '}
-        vulnerability and natural beauty. For her, creativity has always been a tool for self-exploration{' '}
-        and getting to know oneself. As a photographer she works in the fashion field as well as develops personal stories.
-        </p> */}
       </section>
-      {/* <section className="u-flex">
-        <div className="">
-          <img
-            src={work34}
-            alt="Two girls laying on grass, captured on film"
-            className="img-fluid"
-            loading="lazy"
-          />
-        </div>
-      </section> */}
       <section className="about-home__section">
         <h2 className="about-home__title">Select clients</h2>
-        <ul className="about-home__list" aria-label="Client list">
+        <p>Vogue Portugal, Grazia Bulgaria, Triumph, Florentina Leitner, Beatriz Jardinha, Undress Code, BÉHEN, PALMIZA, Maria do Carmo Studio, Mulieris Magazine, Curated by GIRLS, + more</p>
+        {/* <ul className="about-home__list" aria-label="Client list">
           <li>Vogue Portugal</li>
           <li>Grazia Bulgaria</li>
           <li>Triumph</li>
@@ -86,16 +69,6 @@ const About = () => (
           <li>Mulieris Magazine</li>
           <li>Curated by GIRLS</li>
           <li>+ more</li>
-          {/* <li>C41 Magazine</li> */}
-          {/* <li>Summer Drops, book <i>(sold out)</i></li> */}
-          {/* Entrevista <a href="https://contraluzweb.wordpress.com/2022/05/08/milena-baeza/" target="_blank" rel="noreferrer">
-          CONTRALUZ
-          </a><br /> */}
-        </ul>
-        {/* <h2 className="about-home__title">Exhibitions</h2>
-        <ul className="about-home__list" aria-label="Exhibitions list">
-          <li>ImageNation, Paris, 2023</li>
-          <li>DOBRA, Lisboa, 2021</li>
         </ul> */}
       </section>
       <br />

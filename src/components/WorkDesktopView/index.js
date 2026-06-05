@@ -31,14 +31,12 @@ const WorkDesktopView = () => (
       <div className="u-col-3">
         <div className="work__img-wrapper">
           <img
-            src={heirlooms01}
-            alt="A girl rolling on grass, captured on film"
+            src={graziaBulgaria01}
+            alt="Editorial Grazia Bulgaria, captured on film"
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc">
-            Editorial <i>Heirlooms</i> for Vogue Portugal, spring 2024
-          </p>
+          <p className="work__desc">Editorial <i>In Between Thoughts</i> for Grazia Bulgaria, September print issue, autumn 2025</p>
         </div>
 
          <div className="work__img-wrapper">
@@ -120,12 +118,14 @@ const WorkDesktopView = () => (
       <div className="u-col-3">
         <div className="work__img-wrapper">
           <img
-            src={graziaBulgaria01}
-            alt="Editorial Grazia Bulgaria, captured on film"
+            src={heirlooms01}
+            alt="A girl rolling on grass, captured on film"
             className="img-fluid"
             loading="lazy"
           />
-          <p className="work__desc">Editorial <i>In Between Thoughts</i> for Grazia Bulgaria, September print issue, autumn 2025</p>
+          <p className="work__desc">
+            Editorial <i>Heirlooms</i> for Vogue Portugal, spring 2024
+          </p>
         </div>
 
       <div className="work__img-wrapper">
