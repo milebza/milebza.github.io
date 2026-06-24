@@ -41,16 +41,6 @@ const About = () => (
         <p>
           Chilean-portuguese photographer based between Paris and Lisbon. Portfolio upon request.
         </p>
-        <br />
-         <h2 className="about-home__title">For inquiries:</h2>
-         <p> ⊹ <b>hello@milenabaeza.com</b> </p>
-
-         <p> <a
-            href="https://www.instagram.com/milena.baeza/"
-            target="_blank"
-            rel="noreferrer"
-          >ig @milena.baeza</a>
-        </p>
       </section>
       <section className="about-home__section">
         <h2 className="about-home__title">Select clients</h2>
@@ -70,6 +60,16 @@ const About = () => (
           <li>Curated by GIRLS</li>
           <li>+ more</li>
         </ul> */}
+      </section>
+      <section>
+        <p>For enquiries:<br /> ⊹ <b>hello@milenabaeza.com</b> </p>
+
+        <p> <a
+          href="https://www.instagram.com/milena.baeza/"
+          target="_blank"
+          rel="noreferrer"
+        >ig @milena.baeza</a>
+        </p>
       </section>
       <br />
       <p><small>© all rights reserved</small></p>
