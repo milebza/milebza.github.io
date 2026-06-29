@@ -62,7 +62,7 @@ const About = () => (
         </ul> */}
       </section>
       <section>
-        <p>For enquiries:<br /> ⊹ <b>hello@milenabaeza.com</b> </p>
+        <p>For inquiries:<br /> ⊹ <b>hello@milenabaeza.com</b> </p>
 
         <p> <a
           href="https://www.instagram.com/milena.baeza/"

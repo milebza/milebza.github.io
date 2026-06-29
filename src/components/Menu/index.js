@@ -38,14 +38,12 @@ const Menu = () => (
           className={({ isActive }) => setLinkClass(isActive)}
         >About</NavLink>
         </div>
-        <div>
+        {/* <div>
         <NavLink
           to="/archive"
           className={({ isActive }) => setLinkClass(isActive)}
         >Archive</NavLink>
-        </div>
-        <div>
-        </div>
+        </div> */}
         <div>
         <NavLink
           to="/life-journal"
