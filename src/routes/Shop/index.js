@@ -19,7 +19,7 @@ const Shop = () => (
       <p><i>In service of image making</i></p>
       <p>The diary of a photographer in the fashion industry</p>
       <br />
-      <a href='https://inserviceofimagemaking.substack.com/' target='_blank' rel="noreferrer">
+      <a href='https://inserviceofimagemaking.substack.com?utm_source=website&utm_medium=referral&utm_campaign=life_page' target='_blank' rel="noreferrer">
         <button className="course__button">
           Enter
         </button>
